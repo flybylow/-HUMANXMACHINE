@@ -1,0 +1,83 @@
+[
+  {
+    "id": "self-sovereign-identity-practice",
+    "slug": "self-sovereign-identity-practice",
+    "title": "Self-Sovereign Identity in Practice",
+    "guest": {
+      "name": "John Doe",
+      "company": "Identity Protocol",
+      "role": "Founder"
+    },
+    "description": "Building wallet-based identity systems that put users in control",
+    "longDescription": "In this conversation, we explore the practical challenges of implementing self-sovereign identity systems. John shares insights from building production-grade wallet solutions that balance user sovereignty with enterprise requirements.\n\nWe discuss the technical architecture, UX challenges, and regulatory landscape shaping the future of digital identity.",
+    "category": "Digital Identity",
+    "categoryGradient": "from-orange-500 to-pink-500",
+    "date": "2025-01-15",
+    "duration": "45 min",
+    "audioUrl": "",
+    "videoUrl": "",
+    "thumbnail": "/images/interviews/self-sovereign-identity.jpg",
+    "featured": true,
+    "tags": ["Identity", "Web3", "Wallets", "Privacy"],
+    "links": [
+      {
+        "label": "Guest Website",
+        "url": "https://example.com"
+      }
+    ],
+    "keyTakeaways": [
+      "User sovereignty doesn't mean abandoning all centralized services",
+      "The biggest challenge is UX, not technology",
+      "Regulatory clarity is emerging faster than expected"
+    ]
+  },
+  {
+    "id": "product-passports-future",
+    "slug": "product-passports-future",
+    "title": "The Future of Product Passports",
+    "guest": {
+      "name": "Jane Smith",
+      "company": "Circular Economy Initiative",
+      "role": "Director"
+    },
+    "description": "How digital product passports will transform supply chains and sustainability",
+    "longDescription": "Jane Smith discusses the EU's Digital Product Passport regulations and their global impact. We explore how DPPs will create transparency across supply chains and enable a circular economy.",
+    "category": "Sustainability",
+    "categoryGradient": "from-green-500 to-emerald-500",
+    "date": "2025-01-10",
+    "duration": "38 min",
+    "thumbnail": "/images/interviews/product-passports.jpg",
+    "featured": true,
+    "tags": ["DPP", "Sustainability", "Supply Chain", "Regulation"],
+    "keyTakeaways": [
+      "DPPs will be mandatory in EU by 2027 for many product categories",
+      "Interoperability is the key technical challenge",
+      "First movers will gain competitive advantage"
+    ]
+  },
+  {
+    "id": "designing-manufacturing",
+    "slug": "designing-manufacturing",
+    "title": "Designing for Manufacturing",
+    "guest": {
+      "name": "Mike Johnson",
+      "company": "Industrial UX Lab",
+      "role": "Principal Designer"
+    },
+    "description": "Bringing design thinking to factory floors and manufacturing operations",
+    "longDescription": "Mike shares lessons from a decade designing enterprise software for manufacturing. We discuss the unique challenges of designing for industrial environments and the importance of understanding operational constraints.",
+    "category": "Enterprise UX",
+    "categoryGradient": "from-blue-500 to-cyan-500",
+    "date": "2025-01-05",
+    "duration": "52 min",
+    "thumbnail": "/images/interviews/manufacturing-design.jpg",
+    "featured": true,
+    "tags": ["Manufacturing", "Enterprise", "UX", "Design Systems"],
+    "keyTakeaways": [
+      "Factory workers are power users who need efficient, not pretty, interfaces",
+      "Context switching costs are higher in manufacturing than office work",
+      "Design systems must accommodate extreme customization"
+    ]
+  }
+]
+

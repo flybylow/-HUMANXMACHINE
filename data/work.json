@@ -1,0 +1,102 @@
+[
+  {
+    "id": "electrolux-manufacturing",
+    "slug": "electrolux-manufacturing",
+    "company": "Electrolux",
+    "project": "Global Manufacturing Design System",
+    "description": "Unified manufacturing interfaces across 30+ sites with 90% unique machine types",
+    "longDescription": "# The Challenge\n\nElectrolux operates 30+ manufacturing sites globally, each with unique machine configurations. The existing systems were fragmented, leading to high training costs and operational inefficiencies.\n\n# The Solution\n\nWe created a comprehensive design system that balances standardization with necessary customization. The system includes:\n\n- Modular UI components that adapt to different machine types\n- A unified navigation pattern across all sites\n- Accessibility features for factory floor environments\n- Multi-language support with contextual help\n\n# The Impact\n\nThe new system reduced training time by 40% and improved operational efficiency across all sites.",
+    "impact": "Cost savings and successful adoption across diverse production environments",
+    "tags": ["Manufacturing", "Design System", "Enterprise"],
+    "date": "2024-05-15",
+    "duration": "6 months",
+    "role": "Lead Product Designer",
+    "team": ["3 designers", "5 developers", "2 product managers"],
+    "featured": true,
+    "thumbnail": "/images/work/electrolux.jpg",
+    "images": [
+      "/images/work/electrolux-1.jpg",
+      "/images/work/electrolux-2.jpg"
+    ],
+    "metrics": [
+      {
+        "label": "Sites Deployed",
+        "value": "30+"
+      },
+      {
+        "label": "Unique Machine Types",
+        "value": "90%"
+      },
+      {
+        "label": "Training Time Reduction",
+        "value": "40%"
+      }
+    ],
+    "technologies": ["Figma", "React", "TypeScript", "Storybook"],
+    "links": []
+  },
+  {
+    "id": "identity-wallet-platform",
+    "slug": "identity-wallet-platform",
+    "company": "TrustWallet Inc",
+    "project": "Enterprise Identity Wallet",
+    "description": "Self-sovereign identity platform for enterprise authentication and access control",
+    "longDescription": "# The Challenge\n\nEnterprises need to adopt decentralized identity without disrupting existing IT infrastructure and workflows.\n\n# The Solution\n\nA hybrid identity wallet that bridges Web2 and Web3 authentication, allowing gradual migration to self-sovereign identity.\n\n# The Impact\n\nDeployed across 15 enterprise customers, managing 50,000+ digital credentials.",
+    "impact": "Enabled enterprise adoption of self-sovereign identity with zero downtime",
+    "tags": ["Identity", "Web3", "Enterprise", "Security"],
+    "date": "2024-03-20",
+    "duration": "8 months",
+    "role": "Product Lead",
+    "team": ["2 designers", "8 developers", "1 product manager"],
+    "featured": true,
+    "thumbnail": "/images/work/identity-wallet.jpg",
+    "images": [
+      "/images/work/identity-wallet-1.jpg"
+    ],
+    "metrics": [
+      {
+        "label": "Enterprise Customers",
+        "value": "15"
+      },
+      {
+        "label": "Credentials Managed",
+        "value": "50,000+"
+      }
+    ],
+    "technologies": ["Next.js", "TypeScript", "Web3", "Smart Contracts"],
+    "links": []
+  },
+  {
+    "id": "supply-chain-transparency",
+    "slug": "supply-chain-transparency",
+    "company": "CircularCo",
+    "project": "Supply Chain Transparency Platform",
+    "description": "Blockchain-based product passports for circular economy compliance",
+    "longDescription": "# The Challenge\n\nManufacturers need to comply with upcoming EU Digital Product Passport regulations while maintaining supply chain confidentiality.\n\n# The Solution\n\nA privacy-preserving transparency platform using selective disclosure and zero-knowledge proofs.\n\n# The Impact\n\nPiloted with 5 major brands, tracking 10,000+ products from source to consumer.",
+    "impact": "First-to-market DPP solution with privacy-by-design architecture",
+    "tags": ["DPP", "Blockchain", "Sustainability"],
+    "date": "2024-01-10",
+    "duration": "12 months",
+    "role": "Technical Lead",
+    "team": ["1 designer", "6 developers", "1 product manager"],
+    "featured": true,
+    "thumbnail": "/images/work/supply-chain.jpg",
+    "images": [
+      "/images/work/supply-chain-1.jpg",
+      "/images/work/supply-chain-2.jpg"
+    ],
+    "metrics": [
+      {
+        "label": "Brand Partners",
+        "value": "5"
+      },
+      {
+        "label": "Products Tracked",
+        "value": "10,000+"
+      }
+    ],
+    "technologies": ["React", "Ethereum", "IPFS", "Node.js"],
+    "links": []
+  }
+]
+

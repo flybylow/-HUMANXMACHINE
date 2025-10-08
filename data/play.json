@@ -1,0 +1,80 @@
+[
+  {
+    "id": "chocolate-journey",
+    "slug": "chocolate-journey",
+    "title": "Chocolate Journey",
+    "description": "Interactive DPP demo showing all 7 stakeholder interfaces for a chocolate bar",
+    "longDescription": "# About the Project\n\nChocolate Journey is an open-source demonstration of Digital Product Passports in action. It shows how different stakeholders (farmer, processor, manufacturer, retailer, consumer, recycler, regulator) interact with the same product data.\n\n# Technical Implementation\n\nBuilt with Next.js and TypeScript, using IPFS for decentralized storage and Ethereum for immutable record-keeping.\n\n# Impact\n\nUsed as reference implementation by 3 EU DPP working groups.",
+    "type": "Open Source",
+    "typeGradient": "from-orange-500 to-pink-500",
+    "date": "2025-01-10",
+    "featured": true,
+    "thumbnail": "/images/play/chocolate-journey.jpg",
+    "images": [
+      "/images/play/chocolate-journey-1.jpg"
+    ],
+    "technologies": ["Next.js", "TypeScript", "Tailwind", "Web3", "IPFS"],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/humanmachine/chocolate-journey"
+      },
+      {
+        "label": "Live Demo",
+        "url": "https://chocolatejourney.demo"
+      }
+    ],
+    "tags": ["Web3", "DPP", "Open Source", "Demo"]
+  },
+  {
+    "id": "manufacturing-icons",
+    "slug": "manufacturing-icons",
+    "title": "Manufacturing Icon Set",
+    "description": "250+ open-source icons designed specifically for industrial interfaces",
+    "longDescription": "# About the Project\n\nA comprehensive icon library for manufacturing and industrial applications, filling a gap in existing icon sets.\n\n# Features\n\n- 250+ icons covering common manufacturing operations\n- Available in SVG, React, and Figma formats\n- Designed for legibility on factory floor displays\n- MIT licensed\n\n# Impact\n\nDownloaded 10,000+ times, used by major manufacturers globally.",
+    "type": "Design Resource",
+    "typeGradient": "from-blue-500 to-cyan-500",
+    "date": "2024-11-15",
+    "featured": true,
+    "thumbnail": "/images/play/manufacturing-icons.jpg",
+    "images": [
+      "/images/play/manufacturing-icons-1.jpg"
+    ],
+    "technologies": ["Figma", "SVG", "React"],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/humanmachine/manufacturing-icons"
+      },
+      {
+        "label": "Figma Community",
+        "url": "https://figma.com/@humanmachine"
+      }
+    ],
+    "tags": ["Design", "Open Source", "Manufacturing", "Icons"]
+  },
+  {
+    "id": "wallet-ux-patterns",
+    "slug": "wallet-ux-patterns",
+    "title": "Wallet UX Patterns",
+    "description": "Documentation of UX patterns for Web3 wallet applications",
+    "longDescription": "# About the Project\n\nA comprehensive guide to designing wallet interfaces, covering authentication flows, transaction signing, key management, and recovery.\n\n# Content\n\n- 40+ documented patterns\n- Real-world examples from popular wallets\n- Accessibility and security considerations\n- Figma templates\n\n# Impact\n\nUsed by wallet development teams at 5+ Web3 companies.",
+    "type": "Writing",
+    "typeGradient": "from-purple-500 to-pink-500",
+    "date": "2024-09-20",
+    "featured": true,
+    "thumbnail": "/images/play/wallet-patterns.jpg",
+    "images": [
+      "/images/play/wallet-patterns-1.jpg"
+    ],
+    "technologies": ["Figma", "Notion", "Web3"],
+    "links": [
+      {
+        "label": "Read Online",
+        "url": "https://walletpatterns.humanmachine.be"
+      }
+    ],
+    "tags": ["Web3", "UX", "Documentation", "Patterns"]
+  }
+]
+
