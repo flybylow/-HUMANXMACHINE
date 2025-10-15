@@ -27,7 +27,7 @@ export function Hero() {
         </p>
         
         <p className="text-xl text-white/70 mb-8 max-w-3xl mx-auto">
-          We design enterprise systems for Digital Product Passports at scale.
+          We design systems for Digital Product Passports at scale.
         </p>
         
         <div className="flex flex-wrap gap-3 justify-center items-center mb-12">
