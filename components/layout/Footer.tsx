@@ -57,7 +57,6 @@ export function Footer() {
         {/* Copyright */}
         <div className="text-center text-white/50 text-xs">
           <p>&copy; {new Date().getFullYear()} Human×Machine. All rights reserved.</p>
-          <p className="mt-1 text-white/40">Built with Next.js</p>
         </div>
       </div>
     </footer>
