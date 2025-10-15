@@ -108,7 +108,7 @@ Vercel will automatically build and deploy in ~2 minutes.
 - **Website:** [humanmachine.vercel.app](https://humanmachine.vercel.app)
 - **ODPP Demo:** [humanmachinebe.vercel.app](https://humanmachinebe.vercel.app)
 - **ODPP Marketing:** [opendpp-marketing.vercel.app](https://opendpp-marketing.vercel.app)
-- **GitHub:** [github.com/wardvandewege/odpp](https://github.com/wardvandewege/odpp)
+- **GitHub:** [github.com/flybylow/-HUMANXMACHINE](https://github.com/flybylow/-HUMANXMACHINE)
 
 ## Contact
 
