@@ -24,20 +24,20 @@ export function Navigation() {
           
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
+            <a href="/#odpp" className="text-white/80 hover:text-white transition-colors">
+              Platform
+            </a>
+            <a href="/#services" className="text-white/80 hover:text-white transition-colors">
+              Services
+            </a>
             <Link href="/interviews" className="text-white/80 hover:text-white transition-colors">
-              Interviews
-            </Link>
-            <Link href="/work" className="text-white/80 hover:text-white transition-colors">
-              Work
-            </Link>
-            <Link href="/play" className="text-white/80 hover:text-white transition-colors">
-              Play
+              Conversations
             </Link>
             <a 
-              href="#contact" 
+              href="/#contact" 
               className="bg-gradient-to-r from-orange-500 to-pink-500 text-white px-6 py-2 rounded-full hover:from-orange-600 hover:to-pink-600 transition-all shadow-lg"
             >
-              Get in Touch
+              Contact
             </a>
           </div>
           
@@ -59,33 +59,33 @@ export function Navigation() {
       {mobileMenuOpen && (
         <div className="md:hidden border-t border-white/20 bg-slate-900">
           <div className="px-4 py-4 space-y-3">
+            <a 
+              href="/#odpp" 
+              className="block text-white/80 hover:text-white py-2"
+              onClick={() => setMobileMenuOpen(false)}
+            >
+              Platform
+            </a>
+            <a 
+              href="/#services" 
+              className="block text-white/80 hover:text-white py-2"
+              onClick={() => setMobileMenuOpen(false)}
+            >
+              Services
+            </a>
             <Link 
               href="/interviews" 
               className="block text-white/80 hover:text-white py-2"
               onClick={() => setMobileMenuOpen(false)}
             >
-              Interviews
-            </Link>
-            <Link 
-              href="/work" 
-              className="block text-white/80 hover:text-white py-2"
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              Work
-            </Link>
-            <Link 
-              href="/play" 
-              className="block text-white/80 hover:text-white py-2"
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              Play
+              Conversations
             </Link>
             <a 
-              href="#contact" 
+              href="/#contact" 
               className="block bg-gradient-to-r from-orange-500 to-pink-500 text-white px-6 py-2 rounded-full text-center"
               onClick={() => setMobileMenuOpen(false)}
             >
-              Get in Touch
+              Contact
             </a>
           </div>
         </div>

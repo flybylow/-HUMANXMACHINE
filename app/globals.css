@@ -12,3 +12,32 @@
   }
 }
 
+@layer components {
+  /* Primary Button */
+  .btn-primary {
+    @apply inline-block px-7 py-3.5 bg-green-500 text-white rounded-lg font-semibold text-base transition-all border-2 border-green-500;
+  }
+  
+  .btn-primary:hover {
+    @apply bg-green-600 border-green-600 -translate-y-0.5 shadow-lg;
+  }
+  
+  /* Secondary Button */
+  .btn-secondary {
+    @apply inline-block px-7 py-3.5 bg-transparent text-green-500 rounded-lg font-semibold text-base transition-all border-2 border-green-500;
+  }
+  
+  .btn-secondary:hover {
+    @apply bg-green-500 text-white -translate-y-0.5;
+  }
+  
+  /* Tertiary Button */
+  .btn-tertiary {
+    @apply inline-flex items-center gap-2 px-7 py-3.5 bg-gray-100 text-gray-700 rounded-lg font-semibold text-base transition-all border-2 border-gray-300;
+  }
+  
+  .btn-tertiary:hover {
+    @apply bg-gray-200 -translate-y-0.5;
+  }
+}
+

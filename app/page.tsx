@@ -1,6 +1,8 @@
 import { Hero } from '@/components/home/Hero';
+import { FeaturedProduct } from '@/components/home/FeaturedProduct';
 import { LatestSection } from '@/components/home/LatestSection';
 import { ServicesSection } from '@/components/home/ServicesSection';
+import { ContactSection } from '@/components/home/ContactSection';
 import interviews from '@/data/interviews.json';
 import work from '@/data/work.json';
 import play from '@/data/play.json';
@@ -24,6 +26,7 @@ export default function HomePage() {
   return (
     <>
       <Hero />
+      <FeaturedProduct />
       <LatestSection 
         title="Latest Conversations"
         items={latestInterviews}
@@ -38,11 +41,12 @@ export default function HomePage() {
         type="work"
       />
       <LatestSection 
-        title="Side Projects"
+        title="Open Source & Community"
         items={latestPlay}
         viewAllLink="/play"
         type="play"
       />
+      <ContactSection />
     </>
   );
 }

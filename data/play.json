@@ -1,30 +1,26 @@
 [
   {
-    "id": "chocolate-journey",
-    "slug": "chocolate-journey",
-    "title": "Chocolate Journey",
-    "description": "Interactive DPP demo showing all 7 stakeholder interfaces for a chocolate bar",
-    "longDescription": "# About the Project\n\nChocolate Journey is an open-source demonstration of Digital Product Passports in action. It shows how different stakeholders (farmer, processor, manufacturer, retailer, consumer, recycler, regulator) interact with the same product data.\n\n# Technical Implementation\n\nBuilt with Next.js and TypeScript, using IPFS for decentralized storage and Ethereum for immutable record-keeping.\n\n# Impact\n\nUsed as reference implementation by 3 EU DPP working groups.",
-    "type": "Open Source",
-    "typeGradient": "from-orange-500 to-pink-500",
-    "date": "2025-01-10",
+    "id": "cirpass-guides",
+    "slug": "cirpass-guides",
+    "title": "CIRPASS-2 Implementation Guides",
+    "description": "Open-source guides and templates for implementing Digital Product Passports based on €12.5M EU research project",
+    "longDescription": "# About the Project\n\nComprehensive documentation and templates for implementing Digital Product Passports aligned with CIRPASS-2 standards. These guides translate complex EU regulation into actionable implementation steps.\n\n# Contents\n\n- Technical architecture templates\n- Data model examples\n- Stakeholder journey maps\n- Compliance checklists\n- Integration patterns\n\n# Impact\n\nPublic resource helping manufacturers understand and implement DPP requirements ahead of 2027 deadline.",
+    "type": "Documentation",
+    "typeGradient": "from-green-500 to-emerald-500",
+    "date": "2025-10-01",
     "featured": true,
-    "thumbnail": "/images/play/chocolate-journey.jpg",
+    "thumbnail": "/images/play/cirpass-guides.jpg",
     "images": [
-      "/images/play/chocolate-journey-1.jpg"
+      "/images/play/cirpass-guides-1.jpg"
     ],
-    "technologies": ["Next.js", "TypeScript", "Tailwind", "Web3", "IPFS"],
+    "technologies": ["Documentation", "Research", "Public Good"],
     "links": [
       {
-        "label": "GitHub",
-        "url": "https://github.com/humanmachine/chocolate-journey"
-      },
-      {
-        "label": "Live Demo",
-        "url": "https://chocolatejourney.demo"
+        "label": "Read Docs",
+        "url": "https://opendpp-marketing.vercel.app/docs"
       }
     ],
-    "tags": ["Web3", "DPP", "Open Source", "Demo"]
+    "tags": ["DPP", "CIRPASS", "Documentation", "EU Regulation"]
   },
   {
     "id": "manufacturing-icons",
@@ -77,4 +73,3 @@
     "tags": ["Web3", "UX", "Documentation", "Patterns"]
   }
 ]
-
