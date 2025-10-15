@@ -40,6 +40,22 @@ export function FeaturedProduct() {
                   </span>
                 </div>
               </div>
+              
+              {/* Stats */}
+              <div className="grid grid-cols-3 gap-4 py-6 mt-6 border-t border-gray-200">
+                <div className="text-center">
+                  <div className="text-3xl font-bold text-green-500">14</div>
+                  <div className="text-xs text-gray-600 mt-1">Stakeholder Views</div>
+                </div>
+                <div className="text-center">
+                  <div className="text-3xl font-bold text-green-500">3</div>
+                  <div className="text-xs text-gray-600 mt-1">Product Types</div>
+                </div>
+                <div className="text-center">
+                  <div className="text-3xl font-bold text-green-500">100%</div>
+                  <div className="text-xs text-gray-600 mt-1">EU Compliant</div>
+                </div>
+              </div>
             </div>
 
             {/* Product Content */}
@@ -96,22 +112,6 @@ export function FeaturedProduct() {
                       <h4 className="font-semibold text-gray-900">Open Source</h4>
                       <p className="text-sm text-gray-600">MIT license, full documentation</p>
                     </div>
-                  </div>
-                </div>
-
-                {/* Stats */}
-                <div className="grid grid-cols-3 gap-4 py-6 border-t border-b border-gray-200 mb-6">
-                  <div className="text-center">
-                    <div className="text-3xl font-bold text-green-500">14</div>
-                    <div className="text-xs text-gray-600 mt-1">Stakeholder Views</div>
-                  </div>
-                  <div className="text-center">
-                    <div className="text-3xl font-bold text-green-500">3</div>
-                    <div className="text-xs text-gray-600 mt-1">Product Types</div>
-                  </div>
-                  <div className="text-center">
-                    <div className="text-3xl font-bold text-green-500">100%</div>
-                    <div className="text-xs text-gray-600 mt-1">EU Compliant</div>
                   </div>
                 </div>
 
