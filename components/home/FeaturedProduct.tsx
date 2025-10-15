@@ -46,14 +46,14 @@ export function FeaturedProduct() {
             <div className="flex flex-col justify-between">
               <div>
                 <h3 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight">
-                  The first open-source DPP platform built on €12.5M CIRPASS-2 research
+                  The first open-source DPP platform built on CIRPASS-2
                 </h3>
                 
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  ODPP is a production-ready Digital Product Passport platform 
-                  with 14 stakeholder dashboards, semantic web standards, and 
-                  full EU regulation compliance. Built for manufacturers facing 
-                  2027 DPP requirements.
+                  We design systems for Digital Product Passports, compliance, 
+                  and manufacturing operations at scale. ODPP is our production-ready 
+                  platform with 14 stakeholder dashboards, semantic web standards, and 
+                  full EU regulation compliance.
                 </p>
 
                 {/* Features Grid */}

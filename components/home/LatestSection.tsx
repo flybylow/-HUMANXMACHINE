@@ -10,11 +10,12 @@ interface LatestSectionProps {
   items: Interview[] | Work[] | Play[];
   viewAllLink: string;
   type: 'interviews' | 'work' | 'play';
+  id?: string;
 }
 
-export function LatestSection({ title, items, viewAllLink, type }: LatestSectionProps) {
+export function LatestSection({ title, items, viewAllLink, type, id }: LatestSectionProps) {
   return (
-    <section className="py-20 bg-white">
+    <section id={id} className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between mb-12">
           <h2 className="text-4xl font-bold text-gray-900">{title}</h2>

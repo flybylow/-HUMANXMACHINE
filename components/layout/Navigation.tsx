@@ -30,9 +30,11 @@ export function Navigation() {
             <a href="/#services" className="text-white/80 hover:text-white transition-colors">
               Services
             </a>
-            <Link href="/interviews" className="text-white/80 hover:text-white transition-colors">
+            {/* HIDDEN: Conversations link
+            <a href="/#conversations" className="text-white/80 hover:text-white transition-colors">
               Conversations
-            </Link>
+            </a>
+            */}
             <a 
               href="/#contact" 
               className="bg-gradient-to-r from-orange-500 to-pink-500 text-white px-6 py-2 rounded-full hover:from-orange-600 hover:to-pink-600 transition-all shadow-lg"
@@ -73,13 +75,15 @@ export function Navigation() {
             >
               Services
             </a>
-            <Link 
-              href="/interviews" 
+            {/* HIDDEN: Conversations link
+            <a 
+              href="/#conversations" 
               className="block text-white/80 hover:text-white py-2"
               onClick={() => setMobileMenuOpen(false)}
             >
               Conversations
-            </Link>
+            </a>
+            */}
             <a 
               href="/#contact" 
               className="block bg-gradient-to-r from-orange-500 to-pink-500 text-white px-6 py-2 rounded-full text-center"
