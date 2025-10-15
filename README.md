@@ -1,6 +1,20 @@
-# Human Machine Website
+# Human×Machine
 
-A portfolio and podcast website showcasing work in digital identity, product passports, and enterprise UX. Features a cosmic gradient design with animated stars.
+**Digital infrastructure for sustainable living**
+
+Professional website for Human×Machine - designing enterprise systems for Digital Product Passports, compliance, and manufacturing operations at scale.
+
+🌐 **Live Site:** [https://humanmachine.vercel.app](https://humanmachine.vercel.app)
+
+## About
+
+Human×Machine provides enterprise solutions for sustainable manufacturing:
+
+- **ODPP Platform:** The first open-source DPP platform built on CIRPASS-2
+- **DPP Implementation:** Custom deployment and integration services
+- **CIRPASS-2 Consulting:** Expert guidance on EU DPP compliance
+- **Design Systems:** Multi-stakeholder interfaces for manufacturing operations
+- **Workshops & Training:** Expert-led sessions on DPP and sustainable manufacturing
 
 ## Tech Stack
 
@@ -8,7 +22,6 @@ A portfolio and podcast website showcasing work in digital identity, product pas
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Icons:** Lucide React
-- **Animations:** Framer Motion
 - **Deployment:** Vercel
 
 ## Getting Started
@@ -39,78 +52,69 @@ npm start
 ```
 /app
   /page.tsx                    # Home page
-  /interviews                  # Interviews section
-  /work                        # Work/projects section
-  /play                        # Side projects section
   /layout.tsx                  # Root layout
 
 /components
   /layout                      # Navigation, Footer
-  /home                        # Hero, LatestSection
-  /interviews                  # Interview components
-  /work                        # Work components
-  /play                        # Play components
-  /shared                      # Shared components
+  /home                        # Hero, FeaturedProduct, ServicesSection, ContactSection
+  /shared                      # Shared UI components
 
 /data
-  /interviews.json             # Interview data
-  /work.json                   # Work/project data
-  /play.json                   # Side project data
   /types.ts                    # TypeScript types
 
 /public
   /images                      # Static images
 ```
 
-## Adding Content
-
-### Add a New Interview
-
-1. Edit `/data/interviews.json` and add a new entry
-2. Add thumbnail image to `/public/images/interviews/`
-3. Rebuild/redeploy - Next.js will automatically generate the new page
-
-### Add a New Work Project
-
-1. Edit `/data/work.json` and add a new entry
-2. Add images to `/public/images/work/`
-3. Rebuild/redeploy
-
-### Add a New Side Project
-
-1. Edit `/data/play.json` and add a new entry
-2. Add images to `/public/images/play/`
-3. Rebuild/redeploy
-
 ## Design System
 
 ### Colors
 
 - **Cosmic:** Navy (#1e293b), Blue (#1e40af), Purple (#6b21a8), Dark (#0f172a)
-- **Brand:** Orange (#f97316), Pink (#ec4899), Red (#ef4444)
+- **Brand:** Orange (#f97316), Pink (#ec4899), Red (#ef4444), Green (#10b981)
 
-### Gradients
+### Key Sections
 
-- `cosmic-gradient`: Dark cosmic background
-- `brand-gradient`: Orange to pink
-- `brand-gradient-alt`: Orange to red
+1. **Hero** - Value proposition and main CTAs
+2. **ODPP Platform** - Featured product showcase with live demo
+3. **Services** - 4 service offerings (Implementation, Consulting, Design Systems, Workshops)
+4. **Contact** - Lead generation form and contact options
 
 ## Deployment
 
-This site is configured for static export and can be deployed to:
+Automatically deployed to Vercel on push to `main` branch.
 
-- Vercel (recommended)
-- Netlify
-- GitHub Pages
-- Any static hosting service
-
-### Deploy to Vercel
+### Manual Deploy
 
 ```bash
-vercel --prod
+git push origin main
 ```
+
+Vercel will automatically build and deploy in ~2 minutes.
+
+## Features
+
+- ✅ Responsive design (mobile, tablet, desktop)
+- ✅ Smooth scroll navigation
+- ✅ Service cards with timelines (no pricing - discuss in discovery calls)
+- ✅ Contact form for lead generation
+- ✅ ODPP platform showcase with live demo links
+- ✅ Minimal footer design
+- ✅ SEO optimized
+- ✅ Fast loading with Next.js optimization
+
+## Links
+
+- **Website:** [humanmachine.vercel.app](https://humanmachine.vercel.app)
+- **ODPP Demo:** [humanmachinebe.vercel.app](https://humanmachinebe.vercel.app)
+- **ODPP Marketing:** [opendpp-marketing.vercel.app](https://opendpp-marketing.vercel.app)
+- **GitHub:** [github.com/wardvandewege/odpp](https://github.com/wardvandewege/odpp)
+
+## Contact
+
+- **Email:** ward@humanmachine.be
+- **LinkedIn:** [linkedin.com/in/wardvandewege](https://linkedin.com/in/wardvandewege)
 
 ## License
 
-All rights reserved.
-
+© 2025 Human×Machine. All rights reserved.
