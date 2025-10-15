@@ -18,7 +18,6 @@ export function ServicesSection() {
         '3 months support'
       ],
       timeline: '6-12 weeks',
-      investment: 'From €25,000',
       bestFor: 'Mid-size manufacturers, 100-10,000 SKUs, need full solution',
       featured: false
     },
@@ -35,7 +34,6 @@ export function ServicesSection() {
         'Executive summary report'
       ],
       timeline: '2-4 weeks',
-      investment: '€5,000 - €15,000',
       bestFor: 'Companies exploring DPP requirements, need strategic direction before implementation',
       featured: true
     },
@@ -52,7 +50,6 @@ export function ServicesSection() {
         'Developer handoff'
       ],
       timeline: '8-16 weeks',
-      investment: '€30,000 - €100,000',
       bestFor: 'Large enterprises, multiple products/sites, need unified UX at scale',
       featured: false
     },
@@ -68,7 +65,6 @@ export function ServicesSection() {
         'Custom topic workshops'
       ],
       timeline: 'Half-day or full-day',
-      investment: '€2,500 - €5,000 / day',
       bestFor: 'Internal teams, partner training, conference workshops',
       featured: false
     }
