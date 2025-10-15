@@ -13,8 +13,8 @@ export function ContactSection() {
               Ready to get started?
             </h2>
             <p className="text-xl text-gray-300 mb-10 leading-relaxed">
-              Whether you're exploring DPP requirements or ready to implement, 
-              let's discuss how Human×Machine can help your organization.
+              Whether you&apos;re exploring DPP requirements or ready to implement, 
+              let&apos;s discuss how Human×Machine can help your organization.
             </p>
 
             {/* Contact Options */}
@@ -114,7 +114,7 @@ export function ContactSection() {
 
               <div>
                 <label htmlFor="interest" className="block text-sm font-semibold text-gray-700 mb-2">
-                  I'm interested in...
+                  I&apos;m interested in...
                 </label>
                 <select
                   id="interest"
