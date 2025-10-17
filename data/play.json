@@ -23,53 +23,39 @@
     "tags": ["DPP", "CIRPASS", "Documentation", "EU Regulation"]
   },
   {
-    "id": "manufacturing-icons",
-    "slug": "manufacturing-icons",
-    "title": "Manufacturing Icon Set",
-    "description": "250+ open-source icons designed specifically for industrial interfaces",
-    "longDescription": "# About the Project\n\nA comprehensive icon library for manufacturing and industrial applications, filling a gap in existing icon sets.\n\n# Features\n\n- 250+ icons covering common manufacturing operations\n- Available in SVG, React, and Figma formats\n- Designed for legibility on factory floor displays\n- MIT licensed\n\n# Impact\n\nDownloaded 10,000+ times, used by major manufacturers globally.",
-    "type": "Design Resource",
+    "id": "odpp-3d-viewer",
+    "slug": "odpp-3d-viewer",
+    "title": "3D Viewer for ODPP",
+    "description": "Interactive 3D product visualization for Digital Product Passports",
+    "longDescription": "# About the Project\n\nAn interactive 3D viewer component that integrates with the ODPP platform, allowing consumers and stakeholders to explore products visually while accessing passport data.\n\n# Features\n\n- WebGL-based 3D rendering\n- Touch and mouse interaction\n- Hotspot annotations\n- Integration with DPP data\n\n# Status\n\nUpdates coming soon",
+    "type": "Tool",
     "typeGradient": "from-blue-500 to-cyan-500",
-    "date": "2024-11-15",
+    "date": "2025-10-15",
     "featured": true,
-    "thumbnail": "/images/play/manufacturing-icons.jpg",
+    "thumbnail": "/images/play/3d-viewer.jpg",
     "images": [
-      "/images/play/manufacturing-icons-1.jpg"
+      "/images/play/3d-viewer-1.jpg"
     ],
-    "technologies": ["Figma", "SVG", "React"],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com/humanmachine/manufacturing-icons"
-      },
-      {
-        "label": "Figma Community",
-        "url": "https://figma.com/@humanmachine"
-      }
-    ],
-    "tags": ["Design", "Open Source", "Manufacturing", "Icons"]
+    "technologies": ["Three.js", "React", "TypeScript"],
+    "links": [],
+    "tags": ["DPP", "3D", "Visualization", "Updates coming soon"]
   },
   {
-    "id": "wallet-ux-patterns",
-    "slug": "wallet-ux-patterns",
-    "title": "Wallet UX Patterns",
-    "description": "Documentation of UX patterns for Web3 wallet applications",
-    "longDescription": "# About the Project\n\nA comprehensive guide to designing wallet interfaces, covering authentication flows, transaction signing, key management, and recovery.\n\n# Content\n\n- 40+ documented patterns\n- Real-world examples from popular wallets\n- Accessibility and security considerations\n- Figma templates\n\n# Impact\n\nUsed by wallet development teams at 5+ Web3 companies.",
-    "type": "Writing",
+    "id": "actifi-portfolio",
+    "slug": "actifi-portfolio",
+    "title": "ActiFi AI Portfolio Advisor",
+    "description": "Building an AI-powered portfolio management system with natural language interface for financial planning and investment decisions.",
+    "longDescription": "# About the Project\n\nAn AI-powered portfolio management system that combines natural language understanding with sophisticated financial analysis. Users can interact conversationally to get portfolio insights, rebalancing recommendations, and investment guidance.\n\n# Features\n\n- Natural language interface for portfolio queries\n- Real-time portfolio analysis\n- AI-driven investment recommendations\n- Multi-asset class support\n\n# Status\n\nUpdates coming soon",
+    "type": "AI",
     "typeGradient": "from-purple-500 to-pink-500",
-    "date": "2024-09-20",
+    "date": "2025-10-10",
     "featured": true,
-    "thumbnail": "/images/play/wallet-patterns.jpg",
+    "thumbnail": "/images/play/actifi.jpg",
     "images": [
-      "/images/play/wallet-patterns-1.jpg"
+      "/images/play/actifi-1.jpg"
     ],
-    "technologies": ["Figma", "Notion", "Web3"],
-    "links": [
-      {
-        "label": "Read Online",
-        "url": "https://walletpatterns.humanmachine.be"
-      }
-    ],
-    "tags": ["Web3", "UX", "Documentation", "Patterns"]
+    "technologies": ["AI", "FinTech", "ElizaOS"],
+    "links": [],
+    "tags": ["AI", "FinTech", "ElizaOS", "Updates coming soon"]
   }
 ]
