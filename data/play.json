@@ -41,21 +41,21 @@
     "tags": ["DPP", "3D", "Visualization", "Updates coming soon"]
   },
   {
-    "id": "actifi-portfolio",
-    "slug": "actifi-portfolio",
-    "title": "ActiFi AI Portfolio Advisor",
-    "description": "Building an AI-powered portfolio management system with natural language interface for financial planning and investment decisions.",
-    "longDescription": "# About the Project\n\nAn AI-powered portfolio management system that combines natural language understanding with sophisticated financial analysis. Users can interact conversationally to get portfolio insights, rebalancing recommendations, and investment guidance.\n\n# Features\n\n- Natural language interface for portfolio queries\n- Real-time portfolio analysis\n- AI-driven investment recommendations\n- Multi-asset class support\n\n# Status\n\nUpdates coming soon",
-    "type": "AI",
+    "id": "3d-viewer-post",
+    "slug": "3d-viewer-post",
+    "title": "Post on 3D Viewer",
+    "description": "Blog post about building interactive 3D product visualization for Digital Product Passports",
+    "longDescription": "# About the Post\n\nA detailed blog post covering the development of our 3D viewer component for the ODPP platform. Explores the technical challenges, design decisions, and implementation approach for creating interactive product visualizations.\n\n# Topics Covered\n\n- WebGL and Three.js integration\n- Performance optimization for mobile devices\n- User interaction patterns\n- Integration with DPP data systems\n\n# Status\n\nUpdates coming soon",
+    "type": "Writing",
     "typeGradient": "from-purple-500 to-pink-500",
-    "date": "2025-10-10",
+    "date": "2025-10-17",
     "featured": true,
-    "thumbnail": "/images/play/actifi.jpg",
+    "thumbnail": "/images/play/3d-viewer-post.jpg",
     "images": [
-      "/images/play/actifi-1.jpg"
+      "/images/play/3d-viewer-post-1.jpg"
     ],
-    "technologies": ["AI", "FinTech", "ElizaOS"],
+    "technologies": ["Three.js", "React", "TypeScript", "WebGL"],
     "links": [],
-    "tags": ["AI", "FinTech", "ElizaOS", "Updates coming soon"]
+    "tags": ["DPP", "3D", "Blog", "Updates coming soon"]
   }
 ]
