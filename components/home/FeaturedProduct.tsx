@@ -63,7 +63,6 @@ export function FeaturedProduct() {
                 </h3>
                 
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  We design systems for Digital Product Passports at scale. 
                   ODPP is our production-ready platform with 14 stakeholder dashboards, 
                   semantic web standards, and full EU regulation compliance.
                 </p>
