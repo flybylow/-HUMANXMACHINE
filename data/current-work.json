@@ -9,6 +9,14 @@
       "image": "/images/current/dpp.png",
       "status": "Active",
       "tags": ["3D", "Fashion", "DPP"]
+    },
+    {
+      "id": "dpp-demo",
+      "title": "Digital Product Passport Demo",
+      "description": "Transparent Supply Chains, Powered by Blockchain Identity. See how decentralized identifiers (DIDs) and verifiable credentials enable instant, cryptographic verification of product claims—from farm to consumer.",
+      "image": "/images/current/transpsupplychain.png",
+      "status": "Live Demo",
+      "tags": ["DPP", "Blockchain", "IOTA"]
     }
   ]
 }
