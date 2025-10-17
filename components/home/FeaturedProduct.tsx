@@ -146,60 +146,6 @@ export function FeaturedProduct() {
             </div>
           </div>
         </div>
-
-        {/* Platform Screenshots */}
-        <div className="mt-16">
-          <h4 className="text-2xl font-bold text-gray-900 mb-6 text-center">Platform Highlights</h4>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <div className="relative rounded-lg overflow-hidden shadow-lg group">
-              <div className="aspect-video bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center text-white">
-                <div className="text-center">
-                  <div className="text-4xl mb-2">👤</div>
-                  <p className="text-xs font-medium">Consumer View</p>
-                </div>
-              </div>
-              <div className="absolute bottom-0 left-0 right-0 bg-black/80 text-white text-xs text-center py-2">
-                Consumer Experience
-              </div>
-            </div>
-            
-            <div className="relative rounded-lg overflow-hidden shadow-lg group">
-              <div className="aspect-video bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center text-white">
-                <div className="text-center">
-                  <div className="text-4xl mb-2">🏭</div>
-                  <p className="text-xs font-medium">Factory Dashboard</p>
-                </div>
-              </div>
-              <div className="absolute bottom-0 left-0 right-0 bg-black/80 text-white text-xs text-center py-2">
-                Factory Dashboard
-              </div>
-            </div>
-            
-            <div className="relative rounded-lg overflow-hidden shadow-lg group">
-              <div className="aspect-video bg-gradient-to-br from-purple-400 to-purple-600 flex items-center justify-center text-white">
-                <div className="text-center">
-                  <div className="text-4xl mb-2">🔍</div>
-                  <p className="text-xs font-medium">Inspector View</p>
-                </div>
-              </div>
-              <div className="absolute bottom-0 left-0 right-0 bg-black/80 text-white text-xs text-center py-2">
-                Compliance Inspector
-              </div>
-            </div>
-            
-            <div className="relative rounded-lg overflow-hidden shadow-lg group">
-              <div className="aspect-video bg-gradient-to-br from-orange-400 to-orange-600 flex items-center justify-center text-white">
-                <div className="text-center">
-                  <div className="text-4xl mb-2">📊</div>
-                  <p className="text-xs font-medium">Timeline View</p>
-                </div>
-              </div>
-              <div className="absolute bottom-0 left-0 right-0 bg-black/80 text-white text-xs text-center py-2">
-                Supply Chain Timeline
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );
