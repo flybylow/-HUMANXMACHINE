@@ -62,7 +62,7 @@ export function CurrentWorkSection({ data }: CurrentWorkSectionProps) {
                     }}
                   />
                   {/* Fallback icon when image is not available */}
-                  <div className="text-6xl opacity-30">📦</div>
+                  <div className="text-6xl opacity-30">👗</div>
                 </div>
                 
                 {/* Status Badge */}
