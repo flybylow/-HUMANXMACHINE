@@ -4,11 +4,11 @@
   "items": [
     {
       "id": "dpp-platform",
-      "title": "DPP Platform Enhancements",
+      "title": "3D for Fashion",
       "description": "Expanding ODPP with new stakeholder dashboards and enhanced compliance features for EU regulations.",
       "image": "/images/current/dpp.png",
       "status": "Active",
-      "tags": ["DPP", "Sustainability", "Web3"]
+      "tags": ["3D", "Fashion", "DPP"]
     }
   ]
 }
