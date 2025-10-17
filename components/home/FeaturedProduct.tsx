@@ -35,9 +35,6 @@ export function FeaturedProduct() {
                   <span className="bg-green-500 text-white px-4 py-1.5 rounded-full text-xs font-semibold shadow-lg">
                     CIRPASS-2 Compliant
                   </span>
-                  <span className="bg-blue-500 text-white px-4 py-1.5 rounded-full text-xs font-semibold shadow-lg">
-                    Open Source
-                  </span>
                 </div>
               </div>
               
@@ -100,16 +97,6 @@ export function FeaturedProduct() {
                     <div>
                       <h4 className="font-semibold text-gray-900">Production Ready</h4>
                       <p className="text-sm text-gray-600">10k+ lines of code, zero linter errors</p>
-                    </div>
-                  </div>
-                  
-                  <div className="flex items-start gap-3">
-                    <div className="flex-shrink-0 w-6 h-6 rounded-full bg-green-500 flex items-center justify-center text-white text-xs font-bold mt-0.5">
-                      ✓
-                    </div>
-                    <div>
-                      <h4 className="font-semibold text-gray-900">Open Source</h4>
-                      <p className="text-sm text-gray-600">MIT license, full documentation</p>
                     </div>
                   </div>
                 </div>
