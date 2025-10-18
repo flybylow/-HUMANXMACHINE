@@ -23,7 +23,7 @@ export function Hero() {
         </div>
         
         <p className="text-2xl md:text-3xl text-white/90 mb-12 max-w-3xl mx-auto font-semibold">
-          Enterprise Digital Product Passport Platform
+          Digital Product Passport Platform
         </p>
         
         <div className="flex flex-wrap gap-3 justify-center items-center mb-12">

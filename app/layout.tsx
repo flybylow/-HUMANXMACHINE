@@ -8,7 +8,7 @@ import { ScrollRestoration } from '@/components/shared/ScrollRestoration';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'HumanMachine - Enterprise Digital Product Passport Platform',
+  title: 'HumanMachine - Digital Product Passport Platform',
   description: 'Enterprise Digital Product Passport platform helping manufacturers meet CIRPASS-2 requirements. 14 stakeholder dashboards, full supply chain transparency. Based in Belgium.',
   keywords: ['digital product passport', 'DPP', 'CIRPASS-2', 'EU compliance', 'supply chain transparency', 'battery passport', 'textile passport', 'Belgium', 'manufacturing UX', 'enterprise software'],
   openGraph: {
