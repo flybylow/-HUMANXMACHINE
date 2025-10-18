@@ -10,6 +10,6 @@ export function ScrollRestoration() {
     window.scrollTo(0, 0);
   }, [pathname]);
 
-  return null;
+  return <></>;
 }
 

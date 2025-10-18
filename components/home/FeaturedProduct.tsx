@@ -5,15 +5,15 @@ import { Github, ExternalLink } from 'lucide-react';
 
 export function FeaturedProduct() {
   return (
-    <section id="odpp" className="py-20 bg-gradient-to-b from-gray-50 to-white">
+    <section id="platform" className="py-20 bg-gradient-to-b from-gray-50 to-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-12">
           <span className="inline-block text-sm font-semibold text-orange-500 uppercase tracking-wide mb-2">
-            Featured Product
+            The Platform
           </span>
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900">
-            Open Digital Product Passport
+            HumanMachine DPP Platform
           </h2>
         </div>
 
@@ -26,7 +26,7 @@ export function FeaturedProduct() {
                 <div className="aspect-video bg-gradient-to-br from-orange-500 to-pink-500 flex items-center justify-center text-white">
                   <div className="text-center">
                     <div className="text-6xl mb-4">📦</div>
-                    <p className="text-sm opacity-90">ODPP Platform Preview</p>
+                    <p className="text-sm opacity-90">HumanMachine Platform Preview</p>
                   </div>
                 </div>
                 
@@ -59,12 +59,12 @@ export function FeaturedProduct() {
             <div className="flex flex-col justify-between">
               <div>
                 <h3 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight">
-                  The first open-source DPP platform built on CIRPASS-2
+                  Enterprise-Grade Digital Product Passports for EU Compliance
                 </h3>
                 
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  ODPP is our production-ready platform with 14 stakeholder dashboards, 
-                  semantic web standards, and full EU regulation compliance.
+                  Production-ready platform with 14 stakeholder dashboards, W3C semantic web standards, 
+                  and complete CIRPASS-2 alignment—built for manufacturers who need compliance certainty.
                 </p>
 
                 {/* Features Grid */}
@@ -74,8 +74,8 @@ export function FeaturedProduct() {
                       ✓
                     </div>
                     <div>
-                      <h4 className="font-semibold text-gray-900">14 Stakeholder Dashboards</h4>
-                      <p className="text-sm text-gray-600">Consumer to inspector, complete value chain</p>
+                      <h4 className="font-semibold text-gray-900">14 Complete Dashboards</h4>
+                      <p className="text-sm text-gray-600">From factory floor to consumer, every stakeholder covered</p>
                     </div>
                   </div>
                   
@@ -84,8 +84,8 @@ export function FeaturedProduct() {
                       ✓
                     </div>
                     <div>
-                      <h4 className="font-semibold text-gray-900">CIRPASS-2 Aligned</h4>
-                      <p className="text-sm text-gray-600">Reference architecture implementation</p>
+                      <h4 className="font-semibold text-gray-900">CIRPASS-2 Architecture</h4>
+                      <p className="text-sm text-gray-600">Reference implementation aligned with EU DPP requirements</p>
                     </div>
                   </div>
                   
@@ -95,7 +95,17 @@ export function FeaturedProduct() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-gray-900">Production Ready</h4>
-                      <p className="text-sm text-gray-600">10k+ lines of code, zero linter errors</p>
+                      <p className="text-sm text-gray-600">10K+ lines of tested code, enterprise-grade infrastructure</p>
+                    </div>
+                  </div>
+                  
+                  <div className="flex items-start gap-3">
+                    <div className="flex-shrink-0 w-6 h-6 rounded-full bg-green-500 flex items-center justify-center text-white text-xs font-bold mt-0.5">
+                      ✓
+                    </div>
+                    <div>
+                      <h4 className="font-semibold text-gray-900">Built on Open Standards</h4>
+                      <p className="text-sm text-gray-600">W3C JSON-LD, DIDs, Schema.org interoperable</p>
                     </div>
                   </div>
                 </div>
@@ -112,20 +122,17 @@ export function FeaturedProduct() {
                   </Link>
                   
                   <Link 
-                    href="https://opendpp-marketing.vercel.app/" 
-                    target="_blank"
+                    href="#contact" 
                     className="inline-flex items-center gap-2 bg-white border-2 border-orange-500 text-orange-500 px-6 py-3 rounded-lg font-semibold hover:bg-orange-50 transition-all"
                   >
-                    Learn More
+                    Download One-Pager
                   </Link>
                   
                   <Link 
-                    href="https://github.com/flybylow/-HUMANXMACHINE" 
-                    target="_blank"
+                    href="#contact"
                     className="inline-flex items-center gap-2 bg-gray-100 border-2 border-gray-300 text-gray-700 px-6 py-3 rounded-lg font-semibold hover:bg-gray-200 transition-all"
                   >
-                    <Github className="w-4 h-4" />
-                    View on GitHub
+                    Book Demo Call
                   </Link>
                 </div>
               </div>

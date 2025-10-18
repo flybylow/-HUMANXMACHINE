@@ -8,14 +8,21 @@ import { ScrollRestoration } from '@/components/shared/ScrollRestoration';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Human Machine - Making Technology More Human',
-  description: 'Exploring digital identity, product passports, and enterprise UX at the intersection of human needs and machine capabilities.',
+  title: 'HumanMachine - Enterprise Digital Product Passport Platform',
+  description: 'Enterprise Digital Product Passport platform helping manufacturers meet CIRPASS-2 requirements. 14 stakeholder dashboards, full supply chain transparency. Based in Belgium.',
+  keywords: ['digital product passport', 'DPP', 'CIRPASS-2', 'EU compliance', 'supply chain transparency', 'battery passport', 'textile passport', 'Belgium', 'manufacturing UX', 'enterprise software'],
   openGraph: {
-    title: 'Human Machine - Making Technology More Human',
-    description: 'Exploring digital identity, product passports, and enterprise UX',
-    siteName: 'Human Machine',
+    title: 'HumanMachine - Enterprise DPP Platform for EU Compliance',
+    description: 'Enterprise Digital Product Passport platform for EU manufacturers. CIRPASS-2 compliant, production-ready.',
+    siteName: 'HumanMachine',
     locale: 'en_US',
     type: 'website',
+    url: 'https://humanmachine.be',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'HumanMachine - Enterprise DPP Platform',
+    description: 'Enterprise Digital Product Passport platform for EU manufacturers. CIRPASS-2 compliant, production-ready.',
   },
 };
 

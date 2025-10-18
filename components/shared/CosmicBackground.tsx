@@ -11,8 +11,10 @@ interface Star {
 
 export function CosmicBackground() {
   const [stars, setStars] = useState<Star[]>([]);
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    setMounted(true);
     const newStars = Array.from({ length: 50 }, () => ({
       x: Math.random() * 100,
       y: Math.random() * 100,
@@ -21,6 +23,10 @@ export function CosmicBackground() {
     }));
     setStars(newStars);
   }, []);
+
+  if (!mounted) {
+    return <div className="absolute inset-0 overflow-hidden" />;
+  }
 
   return (
     <div className="absolute inset-0 overflow-hidden">

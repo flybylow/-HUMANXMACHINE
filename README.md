@@ -10,7 +10,7 @@ Professional website for Human×Machine - designing enterprise systems for Digit
 
 Human×Machine provides enterprise solutions for sustainable manufacturing:
 
-- **ODPP Platform:** The first open-source DPP platform built on CIRPASS-2
+- **HumanMachine Platform:** Enterprise-grade DPP platform built on CIRPASS-2 standards
 - **DPP Implementation:** Custom deployment and integration services
 - **CIRPASS-2 Consulting:** Expert guidance on EU DPP compliance
 - **Design Systems:** Multi-stakeholder interfaces for manufacturing operations
@@ -76,9 +76,13 @@ npm start
 ### Key Sections
 
 1. **Hero** - Value proposition and main CTAs
-2. **ODPP Platform** - Featured product showcase with live demo
+2. **HumanMachine Platform** - Featured product showcase with live demo
 3. **Services** - 4 service offerings (Implementation, Consulting, Design Systems, Workshops)
-4. **Contact** - Lead generation form and contact options
+4. **Pricing** - Service packages with transparent pricing
+5. **Trust Indicators** - Company positioning and credentials
+6. **Industries** - Target industries and use cases
+7. **CTA Section** - Call-to-action with contact information
+8. **Contact** - Lead generation form and contact options
 
 ## Deployment
 
@@ -96,19 +100,21 @@ Vercel will automatically build and deploy in ~2 minutes.
 
 - ✅ Responsive design (mobile, tablet, desktop)
 - ✅ Smooth scroll navigation
-- ✅ Service cards with timelines (no pricing - discuss in discovery calls)
+- ✅ Service cards with pricing and timelines
+- ✅ Pricing section with 3 service packages
+- ✅ Trust indicators and company positioning
+- ✅ Industries section showcasing target sectors
 - ✅ Contact form for lead generation
-- ✅ ODPP platform showcase with live demo links
-- ✅ Minimal footer design
-- ✅ SEO optimized
+- ✅ HumanMachine platform showcase with live demo links
+- ✅ Comprehensive footer with site navigation
+- ✅ SEO optimized with enterprise keywords
 - ✅ Fast loading with Next.js optimization
 
 ## Links
 
 - **Website:** [humanmachine.vercel.app](https://humanmachine.vercel.app)
-- **ODPP Demo:** [humanmachinebe.vercel.app](https://humanmachinebe.vercel.app)
-- **ODPP Marketing:** [opendpp-marketing.vercel.app](https://opendpp-marketing.vercel.app)
-- **GitHub:** [github.com/flybylow/-HUMANXMACHINE](https://github.com/flybylow/-HUMANXMACHINE)
+- **Platform Demo:** [humanmachinebe.vercel.app](https://humanmachinebe.vercel.app)
+- **Custom Domain:** humanmachine.be (pending DNS setup)
 
 ## Contact
 

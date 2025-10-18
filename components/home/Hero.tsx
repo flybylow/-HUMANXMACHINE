@@ -22,8 +22,8 @@ export function Hero() {
           </h1>
         </div>
         
-        <p className="text-xl text-white/70 mb-8 max-w-3xl mx-auto">
-          We design systems for Digital Product Passports.
+        <p className="text-2xl md:text-3xl text-white/90 mb-12 max-w-3xl mx-auto font-semibold">
+          Enterprise Digital Product Passport Platform
         </p>
         
         <div className="flex flex-wrap gap-3 justify-center items-center mb-12">
@@ -31,27 +31,27 @@ export function Hero() {
             🏭 Manufacturing UX
           </span>
           <span className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/30 px-4 py-2 rounded-full text-sm font-medium">
-            🔗 DPP Solutions
+            🔗 CIRPASS-2 Compliant
           </span>
           <span className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/30 px-4 py-2 rounded-full text-sm font-medium">
-            ♻️ Circular Economy
+            ♻️ Production Ready
           </span>
         </div>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <Link 
-            href="#odpp"
+            href="#platform"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-orange-500 to-pink-500 text-white px-8 py-4 rounded-full text-lg font-medium hover:from-orange-600 hover:to-pink-600 transition-all shadow-lg hover:shadow-xl"
           >
-            View Our Platform
+            View Live Demo
             <ArrowRight className="w-5 h-5" />
           </Link>
           
           <Link 
-            href="#services"
+            href="#contact"
             className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm border-2 border-white/30 text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-white/20 transition-all"
           >
-            Our Services
+            Book Assessment
           </Link>
         </div>
       </div>

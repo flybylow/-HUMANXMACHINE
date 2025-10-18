@@ -5,15 +5,15 @@
     {
       "id": "dpp-platform",
       "title": "3D for Fashion",
-      "description": "Expanding ODPP with new stakeholders & dashboards. Working on 3D viewer for enhanced product visualization.",
+      "description": "Expanding HumanMachine Platform with new stakeholders & dashboards. Working on 3D viewer for enhanced product visualization.",
       "image": "/images/current/dpp.png",
       "status": "Active",
       "tags": ["3D", "Fashion", "DPP"]
     },
     {
       "id": "dpp-demo",
-      "title": "Digital Product Passport Demo",
-      "description": "Transparent Supply Chains, Powered by Blockchain Identity. See how decentralized identifiers (DIDs) and verifiable credentials enable instant, cryptographic verification.",
+      "title": "Transparent Supply Chains",
+      "description": "Blockchain-powered product passports using decentralized identifiers (DIDs) and verifiable credentials for instant verification.",
       "image": "/images/current/transpsupplychain.png",
       "status": "Live Demo",
       "tags": ["DPP", "Blockchain", "IOTA"]
