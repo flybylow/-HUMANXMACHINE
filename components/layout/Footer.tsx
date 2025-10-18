@@ -123,7 +123,7 @@ export function Footer() {
         
         <div className="border-t border-gray-800 pt-8 text-center text-sm">
           <p>&copy; {new Date().getFullYear()} HumanMachine. All rights reserved.</p>
-          <p className="mt-2">Based in Mechelen, Belgium 🇧🇪</p>
+          <p className="mt-2">Based in Bruges, Belgium 🇧🇪</p>
         </div>
       </div>
     </footer>

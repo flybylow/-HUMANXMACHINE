@@ -29,7 +29,7 @@ export function CTASection() {
         <div className="flex flex-col md:flex-row gap-8 justify-center items-center text-sm opacity-90">
           <div className="flex items-center gap-2">
             <span>📍</span>
-            <span>Mechelen, Belgium</span>
+            <span>Bruges, Belgium</span>
           </div>
           <div className="flex items-center gap-2">
             <span>🌐</span>
