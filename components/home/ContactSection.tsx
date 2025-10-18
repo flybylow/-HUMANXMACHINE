@@ -41,7 +41,7 @@ export function ContactSection() {
                 <div>
                   <h4 className="text-lg font-semibold mb-1 text-gray-200">LinkedIn</h4>
                   <a 
-                    href="https://linkedin.com/in/wardvandewege" 
+                    href="https://linkedin.com/in/warddem" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-green-400 hover:text-green-300 text-lg font-medium transition-colors"

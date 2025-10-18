@@ -119,7 +119,7 @@ Vercel will automatically build and deploy in ~2 minutes.
 ## Contact
 
 - **Email:** ward@humanmachine.be
-- **LinkedIn:** [linkedin.com/in/wardvandewege](https://linkedin.com/in/wardvandewege)
+- **LinkedIn:** [linkedin.com/in/warddem](https://linkedin.com/in/warddem)
 
 ## License
 

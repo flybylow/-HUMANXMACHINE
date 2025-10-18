@@ -107,7 +107,7 @@ export function Footer() {
               </li>
               <li>
                 <a 
-                  href="https://linkedin.com/in/wardvandewege" 
+                  href="https://linkedin.com/in/warddem" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors flex items-center gap-2"
