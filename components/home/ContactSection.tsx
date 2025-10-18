@@ -26,10 +26,10 @@ export function ContactSection() {
                 <div>
                   <h4 className="text-lg font-semibold mb-1 text-gray-200">Email</h4>
                   <a 
-                    href="mailto:ward@humanmachine.be" 
+                    href="mailto:warddem@gmail.com" 
                     className="text-green-400 hover:text-green-300 text-lg font-medium transition-colors"
                   >
-                    ward@humanmachine.be
+                    warddem@gmail.com
                   </a>
                 </div>
               </div>
@@ -58,7 +58,7 @@ export function ContactSection() {
                 <div>
                   <h4 className="text-lg font-semibold mb-1 text-gray-200">Book a Call</h4>
                   <a 
-                    href="mailto:ward@humanmachine.be?subject=Schedule%2030-minute%20consultation" 
+                    href="mailto:warddem@gmail.com?subject=Schedule%2030-minute%20consultation" 
                     className="text-green-400 hover:text-green-300 text-lg font-medium transition-colors"
                   >
                     Schedule 30-minute consultation

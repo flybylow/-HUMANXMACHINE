@@ -98,11 +98,11 @@ export function Footer() {
               </li>
               <li>
                 <a 
-                  href="mailto:hello@humanmachine.be" 
+                  href="mailto:warddem@gmail.com" 
                   className="hover:text-white transition-colors flex items-center gap-2"
                 >
                   <Mail className="w-4 h-4" />
-                  hello@humanmachine.be
+                  Email Us
                 </a>
               </li>
               <li>
