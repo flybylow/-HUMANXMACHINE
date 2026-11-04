@@ -295,6 +295,21 @@ What fired and unfired clay can keep, from the strongest evidence to the weakest
 | **Sound at the moment of making** | Claimed in 1969, never shown for intelligible speech. | **Not supported** | ✔ ([overview](https://en.wikipedia.org/wiki/Archaeoacoustics)) |
 | **Living colony marks after firing** | Organic matter burns off at roughly 300–500 °C. Mineral traces (iron deposits, some carbonate) might remain as colour or texture. Carbonates break down at high temperature. | **[H], untested, central to this project** | — |
 
+**A ladder of records (how far back each kind of record reaches)**
+
+| Record | Roughly how old | Made by | Status |
+|---|---|---|---|
+| Clay tokens and envelopes, then tablets | about 10,000 to 5,000 years | People | [E] (Schmandt-Besserat; the link to writing is debated) |
+| Fats in unglazed pots | about 7,000 years | People and animals, kept by clay | [E] ✔ Dunne 2012 |
+| Earth's magnetic field in fired bricks | about 3,000 years | Fire and iron in clay | [E] ✔ Howland 2023 |
+| Dinosaur footprints in Jurassic sediment (Asturias) | about 150 million years | Animals, kept by soft ground | [E] ⚠ |
+| **Cyanobacterial fossils** | **at least about 2.1 billion years** | Cyanobacteria, kept by rock (often chert, sometimes with clay coatings) | [E] ⚠ (Wikipedia, "Cyanobacteria", citing a primary source not yet checked) |
+| Stromatolite-like layers, Strelley Pool | about 3.43 billion years | Possibly microbial mats | **Debated** ✔ Allwood 2006 |
+
+**The point (Ward, 4 November 2026):** a cyanobacterial fossil record of two billion years is "something else than a clay tablet". People's clay records cover about 10,000 years. The planet's living records cover billions. The vessels sit between the two: a human-made clay object that holds a living record.
+
+**An iron link to Stardirt:** the oxygen made by cyanobacteria "rusted" the Earth. Iron dissolved in the oceans was oxidised and settled out (banded iron formations), and red, oxidised iron became common in rocks and soils after the oxygen rise [E] ⚠. Much of the red in red clays is oxidised iron, so part of the colour of terracotta is, in a sense, a long legacy of cyanobacterial oxygen [H, framing]. Note that kiln firing in an oxidising atmosphere also turns iron red, so check this before using it.
+
 **Takeaway:** fired clay is an excellent record of *physical and chemical* events (heat, magnetism, absorbed substances, pressed marks). It is not a record of sound or meaning. A living colony's trace is likely to survive firing only as mineral residue [H].
 
 ## 9. Comparison table: clay, microbes, fungi and AI
