@@ -27,7 +27,16 @@ Sources carry one of two marks:
 1. "Intelligence" is a framing choice, not a measurement. In this file it means *a graded capacity to sense, keep, process and respond to information* (after Lyon 2006 and Levin 2019). Under that definition clay, microbes, fungi and AI all sit somewhere on one scale. That does not make them equal, and it does not mean any of them thinks.
 2. Microcontrollers measure **proxies**: voltage, humidity, temperature, light, CO₂, colour. They do not read thoughts or meanings. Turning a proxy into sound or light is an artistic decision, so the proposal should present it as a method, not as a finding.
 
-**Network note:** this session could not open the EHIN website (europeanhybridintelligencenetwork.eu is outside the allowed network domains). Call details come from your Notion pages and the EHIN application form. Host details were partly checked by web search.
+**Source note:** host details in section 11 come from the EHIN open-call page text that Ward pasted on 4 November 2026. The Guide for Applicants v2 (PDF) has not been read yet.
+
+### What the call actually asks for (read this before framing)
+
+The call text says EHIN studies "how living organisms generate, exchange, and respond to information **within natural ecosystems**". It treats biological processes "**not merely as technological alternatives to silicon computing**, but as a way to understand ecological interdependence and interspecies communication". It asks artists to "step into **real world environments**, examine **multi-species relationships**".
+
+Three consequences for this project:
+1. **Drop "alternative to silicon" as the main argument.** The Notion concept page uses it, but the call explicitly moves away from it. Keep the clay, microbes and AI contrast (section 9) as context, not as the main argument.
+2. **Add a field and ecosystem component.** A single lab culture in a vessel is narrower than the call. One option is to source clay and microbes from one real site, let a local community colonise some vessels, and place some vessels back in that environment. A cyanobacterium can still serve as the reference culture [H, design].
+3. **"Multi-species"** favours mixed communities (clay, cyanobacteria, other bacteria, fungi, and the people who tend them) over a single organism. This has to be balanced against biosafety (see the open questions).
 
 ---
 
@@ -45,9 +54,9 @@ Sources carry one of two marks:
 
 **The honest gap.** Ward has no wet-lab training yet. The project needs a biologist partner and the host's biosafety rules. Cyanobacteria are the safest starting organism (photosynthetic, non-pathogenic strains, already used in ceramics at ETH).
 
-**Host fit in short.** Kersnikova (Ljubljana) is strongest for living organisms and has a long bio-art history. LABoral (Gijón) is strongest for the many-agents and swarm framing, but the biology would need an outside partner. Gluon (Brussels and Utrecht) is the closest material match (biofabrication), but the lab is medical. See section 11.
+**Host fit in short (now checked against the call page).** **LABoral** (Gijón) fits strongly. Dr Gómez Blas studies how intelligence "can emerge decentralized through the cooperation of multiple simple elements, rather than relying on a single central processor". That is almost exactly the vessel mesh. She also holds a biology degree, and LABoral has coast, mountains and forest nearby for fieldwork. **Kersnikova** (Ljubljana) fits strongly too: a wet lab and a field lab, and the call names "non-human cognition" and "ecosystemic intelligence", but it asks for some wet-lab experience. **Kontejner** (Zagreb) is a good outside option, because it names "unconventional computing" and "materiality". Gluon fits the biofabrication material but leans medical. CPN and ZKM fit less well. See section 11.
 
-**Before drafting:** confirm the host list and scientists on the EHIN site and Guide for Applicants v2, read the four core papers in full (Dutto 2024, Winfield 2013, Ferris 1996, Blatt 2024), and settle the organism and the definition of intelligence. Open questions are listed at the end.
+**Before drafting:** read the Guide for Applicants v2, reframe around ecosystems and multi-species relationships (see "What the call actually asks for" above), read the four core papers in full (Dutto 2024, Winfield 2013, Ferris 1996, Blatt 2024), and settle the organism and the definition of intelligence. Open questions are listed at the end.
 
 ---
 
@@ -254,7 +263,7 @@ Each cell has a source or a tag. **[H]** means the cell is this project's hypoth
 | **What it keeps** | Marks, magnetic field, absorbed residues, firing atmosphere (section 8, ✔). Not sound (✔). | Mineral deposits (carbonate) (Heveran 2020 ✔; Dranseike 2025 ✔). Short-term "memory" of potassium state ⚠ (later Süel-lab work). | Network shape reflects past resources ⚠ (Fukasawa et al. 2020). | Statistical weights of training data, not the events themselves [E]. |
 | **In the vessel** | The archive [H] | The responder [H] | Optional second responder [H] | The *listener* is the microcontroller mesh, not AI [H] |
 
-**Note on N02's line "AI is the newest, most centralised and energy-hungry":** this is fair as a contrast [E in general terms], but put a sourced energy figure in the proposal or leave the number out.
+**Note on N02's line "AI is the newest, most centralised and energy-hungry":** this is fair as a contrast [E in general terms], but put a sourced energy figure in the proposal or leave the number out. The call explicitly says it does *not* want biology framed "merely as technological alternatives to silicon computing", so keep this line in the background.
 
 ## 10. Gaps (what no one seems to have tested)
 
@@ -270,30 +279,33 @@ All are [H]. They are gaps *as far as this search found*, which was not exhausti
 
 **A realistic first experiment (pilot, months 1–3):** 12 small bisque vessels (3 clay bodies × 2 bisque temperatures × 2 surface treatments). A non-pathogenic cyanobacterium (for example, *Synechococcus* PCC 7002, as used at Boulder, or *Synechocystis*, to be confirmed with the host). One node per vessel logs humidity, temperature, light transmitted or absorbed, CO₂ and surface voltage, plus weekly imaging with the pattern reader. Controls: sterile vessels with the same medium [H, design].
 
+**Field extension (to match the call):** a second set of vessels made from clay dug at one real site, colonised by that site's own community (soil or water inoculum), with some vessels placed back in the field with weatherproof nodes. This compares a lab "reference" colony with a wild multi-species one [H, design; biosafety to clear with host].
+
 ## 11. Host fit
 
-Host names and scientists come from your Notion page. They could **not** be checked on the EHIN site in this session. ✔ means the scientist's research area was confirmed by search. The column "Non-medical?" is a judgement.
+Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ means the call page and an outside search agree. The column "Fit" is a judgement for *this* project (living clay vessels, a distributed sensor mesh, non-medical).
 
-| Host | Scientist (as listed) | Verified? | Facilities (from notes) | Likely to engage with a non-medical clay project? |
+| Host | Expert(s) named in the call | What the host offers (from the call) | What the host asks for | Fit |
 |---|---|---|---|---|
-| **Kersnikova** (Ljubljana) | Dr Matej Butala, University of Ljubljana Biotechnical Faculty: bacteriophage, *Bacillus*, SOS response, enzymatic DNA synthesis for **data storage** (public lecture April 2025) | ✔ ([CRIS profile](https://cris.cobiss.net/ecris/si/en/researcher/17552)) | BioTehna wet lab, Rampa electronics lab, Vivarium | **High.** Long bio-art history (Kapelica showed Spačal's fungal works ✔). Butala's DNA-storage interest links directly to "clay as memory". The host wants some wet-lab experience. |
-| **LABoral** (Gijón) | Dr Nuria Gómez Blas, Universidad Politécnica de Madrid: swarm intelligence, ant-colony and particle-swarm models | ✔ (publication listings, e.g. [csauthors](https://www.csauthors.net/nuria-gomez-blas)) | FabLab, digital manufacturing; 6–8 weeks on site | **High for the agents and swarm framing; low for the biology.** You would need to name an outside biolab partner. You have met her (FTI, WIELS, Brussels). |
-| **Gluon** (Brussels and Utrecht) | Prof Jos Malda and Dr Riccardo Levato, UMC Utrecht orthopaedics: volumetric bioprinting, cartilage and bone | ✔ ([UU staff page](https://www.uu.nl/staff/RLevato)) | Bioprinting labs, Gluon in Brussels (near Bruges) | **Medium to low.** The best material match (biofabrication), but their work is medical. Ask early whether bisque as a substrate interests them. |
-| **CPN** (Belgrade) | Andrej Savić (biological signal reading), Marko Mišić (computing) | ⚠ not verified | Makerspace | **Medium.** Fits the sensing and electronics side. Biology support unclear. |
-| **ZKM** (Karlsruhe) | Prof Lennart Hilbert, KIT: nuclear information processing, DNA-based information processing systems | ✔ ([KIT group page](https://bip.ibcs.kit.edu/)) | Strong lab science (KIT); media-art museum | **Low to medium.** Interested in information processing in biology, but the work is molecular, not clay. A strong scientific background is expected. |
-| **Kontejner** (Zagreb) | Oliver Vugrek, Ruđer Bošković Institute (genomics) | ⚠ not verified | — | **Medium.** Has a bio-art record (showed Spačal's *Cycles* 2015 and screened Sutela ✔ via [Kontejner](https://kontejner.org/en/projekti/touch-me-festival/-7-doticemo-nove-buducnosti/filmski-program-2/nimiia-cetii-2018-12--2)). Fit with the science unclear. |
+| **LABoral** (Gijón, Spain) | **Dr Nuria Gómez Blas** (UPM): BSc Biology plus a PhD in CS/AI. Bio-inspired AI, swarm intelligence (ant colony optimisation), **membrane computing**, evolutionary computing. Studies how intelligence "can emerge decentralized through the cooperation of multiple simple elements, rather than relying on a single central processor". ✔ | Accommodation, studio, **fabLAB, soundlab**, AV kit; a team with 300+ residencies; a university network including **biology**; coast, Picos de Europa and UNESCO biosphere reserves nearby | 6–8 weeks on site at key stages; digital manufacturing recommended; English required, Spanish recommended; open studio; an exhibition-ready work in a LABoral gallery | **Strong.** Her own wording matches the vessel mesh, and the soundlab fits Singing Bowls and MycoMesh. You have already met her. *Risk:* no in-house wet lab, so name the biology partner (via LABoral's university network or your own). |
+| **Kersnikova** (Ljubljana, Slovenia) | **Dr Matej Butala**, UL Biotechnical Faculty: phage, *Bacillus*, enzymatic DNA synthesis for data storage ✔. Network: Biology and Microbiology departments, National Institute of Biology, Bioinformatics Lab (FRI). | **BioTehna** wet lab, **Rampa** electronics and sensing, **Vivarium** (soil, plants), Kapelica Gallery; a "Dirty Lab" configured per project, including **field set-ups and environmental monitoring** | Presence for key periods plus an Open Dirty Lab; interest in "biocomputation, interspecies communication, **non-human cognition or ecosystemic intelligence**"; **some wet-lab experience**; English or Slovenian | **Strong.** The best facilities for growing and sensing living clay, and the call's wording matches N06. *Risk:* the wet-lab requirement. Show a pilot before February 2027. |
+| **Kontejner** (Zagreb, Croatia) | **Oliver Vugrek**, Laboratory for Advanced Genomics, Ruđer Bošković Institute (Division of Molecular Medicine) ✔ (call page) | Curatorial and production team; a Croatian network of labs, universities and makerspaces; an exhibition with a public programme | Interest in "biocomputing, **unconventional computing**, synthetic and living systems… new models of computation, communication, intelligence and **materiality**"; English | **Medium to strong** on the concept ("materiality" fits clay well). Medium on facilities, since the scientific partner is genomics and the lab access is not specified. |
+| **Gluon** (Brussels, with Utrecht) | **Prof Jos Malda** (Malda Lab: biofabrication in translational regenerative medicine, UU and UMC Utrecht; bioinks, bioprinting, bioreactors, cartilage and bone) and **Dr Riccardo Levato** (volumetric bioprinting; AI-guided bioprinters that "see" cells; GRACE and SMART-AGENT projects) ✔ | Utrecht Biofabrication Facility; Gluon Art & Research team for network, production and exhibition | "Experienced candidates with a strong interest in, or background with, living and biological materials"; questions of "**control, agency, hybridity and authorship**"; presence in Utrecht and Brussels; Dutch or French a plus | **Medium.** The themes of control and agency fit the Hanging Garden conductor story, and Brussels is close to Bruges. *Risks:* the work centres on cells, organoids and tissue (medical), and nothing involves clay. |
+| **CPN** (Belgrade, Serbia) | **Andrej Savić** (no biography on the page) and **Marko Mišić** (University of Belgrade: GPU computing, bioinformatics, image processing, ML, spatial transcriptomics) ✔. Expert group: bioinformatics, **biological signal processing**, neuroengineering. | Makerspace and digital fabrication; possible partners: Botanical Garden "Jevremovac", Institute of Molecular Genetics and Genetic Engineering, Centre for Data Processing | Cross-disciplinary artists; community-based work is an advantage; English | **Medium.** Good for signal processing and pattern analysis (the Mobile Pattern Reader data), and the botanical garden could offer a field site. Wet-lab access is unclear. |
+| **ZKM** (Karlsruhe, Germany) | **Prof Lennart Hilbert** (chromatin, transcription, DNA-nanomotifs, "DNA computers") ✔. Network: KIT, MPI for Intelligent Systems Stuttgart, Göpfrich Lab (Heidelberg), SOS Lab (TU Darmstadt). | Hertz-Lab; production and exhibition support | Biohybrid systems with **living tissues, organoids, neural activity, soft electronics, robotics**; a "strong scientific background"; English and German | **Low.** The focus is molecular and biohybrid robotics, not clay or ecosystems. |
 
-**Recommendation:** Kersnikova if you want to grow the organisms yourself, and if you can show some wet-lab preparation before February 2027 (for example, a short course or a pilot with a local lab). LABoral if the networked-agents framing is the core and you can bring your own biology partner. You can choose only one host.
-
----
+**Recommendation:** **LABoral** or **Kersnikova**. You can apply to only one.
+- Choose **LABoral** if the core of the proposal is the *network of simple agents* (the vessels) and its sound. That is your strongest existing practice, and it matches Gómez Blas's research almost word for word. Pair it with a field site on the Asturian coast or in the mountains (local clay and local microbes), and name a biology partner.
+- Choose **Kersnikova** if the core is *growing* the living clay and keeping it alive, and you can show wet-lab preparation before February 2027.
 
 ## Open questions to verify before drafting
 
 **Call and host**
-1. Confirm the six hosts, their scientists, and whether "LABoral" in the brief is the chosen host or only the call's organiser. Read the EHIN Guide for Applicants v2 (EHIN site, blocked in this session).
+1. ~~Confirm the six hosts and scientists~~ (done, from the call page). Still open: is LABoral the chosen host? Read the Guide for Applicants v2: <https://europeanhybridintelligencenetwork.eu/wp-content/uploads/2026/10/EHIN-Open-Call-Guide-for-applicants-v2.pdf>
 2. Is the residency near full-time? What share of the €25,000 is the fee? When are selections announced? (Email LABoral, Gluon or Kersnikova.)
 3. Biosafety: which organisms and biosafety levels does each host allow? Can living vessels travel to exhibition venues?
-4. Verify Andrej Savić, Marko Mišić and Oliver Vugrek, and their openness to clay.
+4. Andrej Savić has no biography on the call page; find his field. For LABoral: which university biology department could host the living part, and is there wet-lab space in Gijón? How would a field site work in Asturias (local clay, coast or mountain)?
+4b. How will "multi-species" and "natural ecosystems" (the call's wording) be met while keeping biosafety simple? Possible answer: a lab reference culture plus a field-colonised set.
 
 **Science to read in full**
 5. Dutto et al. 2024, methods: clay body, firing temperature, porosity, how long the organisms survived.
