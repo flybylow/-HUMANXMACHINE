@@ -67,6 +67,25 @@ Sources carry one of two marks:
 
 ---
 
+## The idea in one message (simplified, 4 November 2026)
+
+> **One score, sung by different voices.**
+> Clay from a few places in Asturias, each with its own life, is made into identical vessels that follow the same rules. What you hear is the place.
+
+**Three steps, easy to explain:**
+1. **Dig.** Visit 3 to 5 clay sites with a local potter or practitioner. Take clay and a small soil sample from each site, and record the site once with the Mobile Pattern Reader. *No electronics stay in the field.*
+2. **Listen.** At LABoral, make identical vessels from each clay and let each site's own life grow in them. Each vessel has one node with three sensors (moisture, light or colour, surface voltage), and the vessels sound together in one room.
+3. **Fire.** At the end, fire some vessels so the living record becomes a permanent mineral one. The fired vessels and the recorded sound travel to the shows.
+
+**Deliberately left out (to keep it simple):** year-long field nodes, fungi as a separate strand, an AI layer, and many sensors per vessel. Any of these can return later as an extension.
+
+**Practical answers so far** [H, to confirm with LABoral]:
+- *Field electronics for a year:* avoid them. Power, weather, theft and permits make this the riskiest part. The field is where the work begins, not where the nodes live.
+- *Transport:* clay and soil travel in sealed, labelled bags. The sites are mostly short drives from Gijón (approximate, not checked: Avilés about 25 km, Oviedo or Faro about 30 km, Colunga about 40 km, Cangas del Narcea about 120 km). Living vessels move as little as possible.
+- *Cross-contamination in one room:* some mixing is likely through air, water, hands and tools. To limit it, give each vessel a lid with a breathable filter, use separate tools and water for each site, and keep one sealed control. Perfect separation is not possible outside a clean lab. In the Dirty Lab framing, document any mixing rather than hide it. One vessel could even be shared on purpose ("what happens when places meet").
+
+---
+
 ## Executive summary (one page)
 
 **The idea.** A porous clay vessel is a habitat and a record at the same time. Clays are dug at several sites in Asturias, and each clay is colonised by its own site's living community (bacteria, cyanobacteria, algae, fungi). Every clay is local in its minerals, history and microbes, and universal in its origin (elements made in stars, the same mineral physics everywhere). Each vessel, or each small group of vessels, has its own microcontroller. The microcontroller logs slow proxies of the colony's activity (moisture, light absorbed, CO₂, surface voltage, colour change) and turns them into light and sound. The vessels talk to each other over a local mesh, so there is no central brain. The colony also leaves marks in the clay over months. At the end, some vessels can be fired, so that part of the record becomes permanent, the way a sealed clay token envelope became a record.
