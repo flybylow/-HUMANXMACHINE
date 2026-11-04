@@ -509,6 +509,12 @@ Searches covered living ceramics, bioreceptive tiles, ceramic photobioreactors, 
 5. **The combination still looks open:** clay from several real places, each colonised by its own community, in identical vessels with the same sensing and sound rules, read and then fired as a record. Say "as far as a broad search found", not "first ever".
 6. **Contacts worth considering:** Annemarie Maes (Brussels) for a conversation about cyanobacteria in art; the Rietveld and Staffordshire wild-clay projects for method.
 
+**Background check: Anne Marie Maes (also written AnneMarie Maes or Annemie Maes)** ⚠ (from search; sources partly conflict; nl.wikipedia blocked in this session)
+- Born 1955 (Brussels or Leuven, sources differ). Studied graphic design (1974–77), then an MFA at LUCA School of Arts Brussels (1998–2000). Trained in anthropological documentary film; certified herbalist (2012–13). Background in botany and visual anthropology.
+- Earlier work: founded the Pix and Motion experimental animation and short-film company, the artist-run space Looking Glass, and SO-ON (artists working with image, sound and technology; archive of projects before 2009 at so-on.be). Co-founded OKNO (Brussels art and technology collective, 2004 or 2005). Works as an independent artist since 1999.
+- Later work: urban beekeeping and the Bee Laboratory; *The Intelligent Guerilla Beehive* (Honorary Mention, Ars Electronica); bacterial cellulose "Sensorial Skins"; cyanobacteria works (2020–2021). Shows include Palais de Tokyo, iMAL, Kunsthalle Mulhouse (*Alchimia Nova*, 2023), *Pollinaria* (Utrecht, 2024) and EMST Athens (*Bee Agency*, 2025–26).
+- Sources: [iMAL bio](https://www.imal.org/en/events/woven-by-nature), [Palais de Tokyo](https://palaisdetokyo.com/en/personne/anne-marie-maes), [Kunstradio bio](https://www.kunstradio.at/BIOS/maesbio.html), [Monoskop](https://monoskop.org/Annemie_Maes).
+
 **The design idea:** keep everything the same except the clay and its life (same vessel form, same node, same rule). Then the differences you hear belong to the place. Present this as attentive comparison in the field, not as proof [H].
 
 **Candidate sites and traditions (from quick searches, mostly craft and tourism sources; check before citing):**
