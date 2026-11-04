@@ -337,6 +337,30 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 - A global survey of 237 soils on six continents found that **about 2% of bacterial types (roughly 500) make up almost half of soil bacterial communities worldwide** ✔ (Delgado-Baquerizo et al., *Science* 359:320–325, 2018, doi:10.1126/science.aap9516) [E, one large study].
 - So soils are unique in their mix and history, and share a common core. That core is the bridge from local to universal.
 
+### 12a. Deep dive: where do soil bacteria do best, and does it match clay?
+
+**What the 2018 global atlas actually found** (Delgado-Baquerizo et al., *Science* 359:320–325, [doi:10.1126/science.aap9516](https://doi.org/10.1126/science.aap9516)) ✔. The full text could not be opened in this session, so these details come from abstracts, figure captions and press coverage.
+- 237 sites on six continents; 16S rRNA gene sequencing; phylotypes defined at 97% sequence similarity.
+- **511 of 25,224 phylotypes (2%) were "dominant"**, meaning both abundant and found nearly everywhere. Together they made up almost half of the bacterial communities [E, one large study].
+- The dominant phylotypes group into ecological clusters with shared habitat preferences: **high pH, low pH, drylands, low plant productivity**. A press summary mentions a fifth "dry forest" group, so the sources disagree on the number ⚠.
+- The best predictors were **soil pH, aridity and climate, and plant productivity**. Soil texture and carbon were also tested ⚠ (variance explained not checked).
+- **Important reading:** this study is about *which types* dominate everywhere, not about *where* bacteria are concentrated. It says the same few hundred types live almost everywhere, and which of them lead depends mostly on pH and dryness.
+
+**A striking example of a dominant type: "DA101", *Candidatus* Udaeobacter copiosus** (Verrucomicrobia, Spartobacteria). It was found in more than 1,000 soils and is often the single most abundant type, especially in grasslands. It has a very small genome (about 2.8 Mb versus about 4.7 Mb typical) and **cannot make several amino acids and vitamins itself**, so it relies on its neighbours ✔ (Brewer et al., *Nature Microbiology* 2:16198, 2016) [L]. **For the Dirty Lab framing, this is a good point: the most successful soil bacterium is one that cannot live alone.** It also has not yet been grown as a pure culture in the lab ⚠ (check).
+
+**Where bacteria do best (the question behind the atlas):**
+- **pH is the strongest single predictor of bacterial diversity** across 98 soils in the Americas. Diversity peaks near neutral pH and is lowest in acid soils ✔ (Fierer and Jackson, *PNAS* 103:626–631, 2006, doi:10.1073/pnas.0507535103) [E, replicated].
+- **Finer soil particles hold more bacterial diversity.** The silt (2–63 µm) and **clay (<2 µm)** fractions had higher diversity than sand; coarse fractions were poorer because of low nutrients, grazing and fungal competition ✔ (Sessitsch et al., *Appl. Environ. Microbiol.* 67:4215–4224, 2001, doi:10.1128/AEM.67.9.4215-4224.2001) [L to E].
+- **More clay, more microbial biomass.** Across about 490 German soils, clay content correlated positively with microbial biomass carbon, and the authors suggest clay *protects* microbial biomass ⚠ (Müller and Höper, *Soil Biol. Biochem.* 36:877, 2004; found via search, details not checked) [E as a correlation]. The effect depends on the food source, so it is not universal.
+- **At the micro scale, bacteria live in patches** and interact with only a few neighbours ✔ (Raynaud and Nunan, *PLoS ONE* 9:e87217, 2014) [L].
+- **Where most bacteria are on Earth:** about 70 Gt of carbon in bacteria in total, most of it in the **deep subsurface**, not in topsoil ✔ (Bar-On, Phillips and Milo, *PNAS* 115:6506, 2018; split between soil and subsurface ⚠).
+
+**So does "the best environment" match clay?** Partly, and with a twist.
+- **Yes, in soil:** clay-sized particles and clay-rich soils host more diversity and more biomass, likely through surface area, water holding, nutrient binding and protection (Stotzky, Sessitsch, Müller and Höper) [E as correlation, mechanism H].
+- **But heavy clay that stays waterlogged loses oxygen** and favours different (anaerobic) communities [E, general soil science ⚠].
+- **And the twist for the vessels: firing changes clay.** Above roughly 500–600 °C clay minerals lose their structural water (kaolinite becomes metakaolin), so a bisque vessel is no longer a clay *mineral* in the soil sense. Much of the surface chemistry that helps microbes in soil (cation exchange, swelling layers) is reduced. Porosity remains [E, ceramics ⚠ cite a ceramics text].
+- **Design consequence [H]:** compare three states of the same local clay, namely **raw** (unfired, sun-dried), **low bisque** and **higher bisque**, or line a bisque vessel with a layer of raw local clay. This tests whether the "soil-like" clay surface or just the porous structure matters, and it adds a strong idea: *firing is the moment the clay stops being a habitat and becomes a record.*
+
 **The design idea:** keep everything the same except the clay and its life (same vessel form, same node, same rule). Then the differences you hear belong to the place. Present this as attentive comparison in the field, not as proof [H].
 
 **Candidate sites and traditions (from quick searches, mostly craft and tourism sources; check before citing):**
@@ -398,6 +422,9 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 15. The geology of the candidate clays (parent rock, mineralogy), for example from the Spanish geological survey (IGME) or the University of Oviedo.
 16. Check the Faro, Miranda and Llamas del Mouro facts against academic sources.
 
+26. Read the full Delgado-Baquerizo 2018 paper and its Table S1 (dominant taxa, clusters, variance explained, role of texture). A copy is hosted at the NOAA repository, which is blocked in this session.
+27. Measure the pH of each candidate Asturian clay. pH is the strongest predictor of which bacteria thrive.
+
 **Art to check**
 17. Dates and sources for the ⚠ art entries (Steichen, Haacke, Beesley, Oxman, Brain, Yi, SymbioticA).
 18. Search again for artworks with living colonies on fired clay, and for artworks about local clay and place.
@@ -415,6 +442,11 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 
 ## Source list (confirmed in this session)
 
+- Brewer TE et al. 2016. Genome reduction in an abundant and ubiquitous soil bacterium '*Candidatus* Udaeobacter copiosus'. *Nat. Microbiol.* 2:16198.
+- Fierer N, Jackson RB. 2006. The diversity and biogeography of soil bacterial communities. *PNAS* 103:626–631. https://doi.org/10.1073/pnas.0507535103
+- Sessitsch A et al. 2001. Microbial population structures in soil particle size fractions of a long-term fertilizer field experiment. *Appl. Environ. Microbiol.* 67:4215–4224. https://doi.org/10.1128/AEM.67.9.4215-4224.2001
+- Raynaud X, Nunan N. 2014. Spatial ecology of bacteria at the microscale in soil. *PLoS ONE* 9:e87217. https://doi.org/10.1371/journal.pone.0087217
+- Bar-On YM, Phillips R, Milo R. 2018. The biomass distribution on Earth. *PNAS* 115:6506.
 - Delgado-Baquerizo M et al. 2018. A global atlas of the dominant bacteria found in soil. *Science* 359:320–325. https://doi.org/10.1126/science.aap9516
 - Adams F. 2018. Cognition wars. *Stud. Hist. Phil. Sci. A* 68:20–30. https://philpapers.org/rec/ADACW
 - Blatt MR et al. 2024. Does electrical activity in fungi function as a language? *Fungal Ecol.* 68:101326. https://doi.org/10.1016/j.funeco.2023.101326
