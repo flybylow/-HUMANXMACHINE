@@ -464,6 +464,51 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 - *Clay and ceramics both host and fight cyanobacteria.* Clay feeds, shelters and preserves them, and is also used to sink their blooms and bind their toxins. That two-way relationship is a good "Dirty Lab" story.
 - The UCL 3D-printed clay tiles and the porous-glass firing study suggest a concrete test: **print or extrude vessels with designed textures, fire them at a few temperatures, and see where cyanobacteria settle first.**
 
+### 12d. Prior work: cyanobacteria with clay or ceramics, in art and science (broad search, 4 November 2026)
+
+Searches covered living ceramics, bioreceptive tiles, ceramic photobioreactors, heritage tiles, desert rock microbes, algae sonification, cyanobacteria bio-art and wild-clay art. Most entries were found by search and **not read in full** (✔ means the basic facts matched across sources; ⚠ means one source or self-description only).
+
+**Art and design: living cyanobacteria (no fired clay)**
+| Year, place | Who, work | What | Relevance |
+|---|---|---|---|
+| 2007, Ars Electronica | Andrew Gracie with Brian Lee Yung Rowe, *Autoinducer_Ph-1* | Probed the symbiosis of the cyanobacterium *Anabaena* with the water fern *Azolla* | Early cyanobacteria bio-art ⚠ ([archive](https://webarchive.ars.electronica.art/en/festival2007/program/project.asp%3FiProjectID=13963.html)) |
+| 2019, Centre Pompidou, then MAK Vienna | ecoLogicStudio with University of Innsbruck, *H.O.R.T.U.S. XL Astaxanthin.g* | 3D-printed "bio-pixels" with photosynthetic cells in gel (sources say cyanobacteria or *Chlorella*) | Printed living structure, not clay ✔ ([project](https://ecologicstudio.com/projects/h-o-r-t-u-s-xl-astaxanthin-g)) |
+| 2020–2021, Kortrijk and iMAL Brussels | **Annemarie Maes** (Brussels), *L'Origine du Monde*, *Slow Metabolism* | Hand-blown glass cells with *Synechocystis* in agar, slowly growing "green veins" | **Belgian precedent, very close in spirit.** Glass, not clay ✔ ([artist site](https://annemariemaes.net/projects/woven-by-nature/)) |
+| 2022, NYU, ISEA 2023 | Yan Shao, *Algae Chorus* | Spirulina and microalgae; 24 light sensors plus a CO₂ sensor drive a synthesiser. Visitors' breath feeds the algae. | **Closest sonification precedent.** No clay ✔ ([CAN](https://www.creativeapplications.net/member/algae-chorus-a-sound-installation-collaborates-with-living-algae)) |
+| 2025, Venice Architecture Biennale (Canada Pavilion) | Living Room Collective (Andrea Shin Ling, ETH Zurich), *Picoplanktonics* | Large 3D-printed structures with living cyanobacteria capturing CO₂. A critic noted visible wear within days. | Largest living printed structure; ETH biofabrication. Not clay ✔ ([Dezeen](https://www.dezeen.com/2025/05/14/canada-pavilion-picoplanktonics-venice-architecture-biennale/)) |
+| 2026, Klima Biennale Wien | Lena Kuzmich and Tony Wagner, *Photosynthesizer* | An instrument that turns the photosynthesis of cyanobacteria and microalgae into a light-responsive soundscape | **Very recent and close: cyanobacteria as an instrument** ⚠ ([Biennale](https://www.biennale.wien/en/program/choir-of-kin-photosynthesizer)) |
+
+**Art and design: clay or ceramics with living organisms**
+| Year, place | Who, work | What | Relevance |
+|---|---|---|---|
+| 2018, Eden Project | Studio Swine, *∞ Blue* | Ceramic sculpture honouring cyanobacteria. Nothing in it is alive. | Theme only (see section 2) ✔ |
+| 2023, Savannah, Georgia | Casey Schachner and Georgia Southern students, *SUBMERGED: An Underwater Exhibition of Bioceramic Artwork* | Low-fire, terracotta-like sculptures made with algae, placed in aquarium tanks where oyster larvae colonised them | **Fired clay plus living colonisation, marine** ✔ ([Georgia Southern](https://www.georgiasouthern.edu/?p=46778)) |
+| about 2020s, UCL Bartlett | Morais, Cruz, Parker | Robotically extruded clay tiles designed to hold water and nutrients for algae | **Closest to Ward's extruder** ⚠ (see 12c) |
+| about 2020s, University of Waterloo | Symbiosis Lab, *Chlorella on Ceramics* | Ceramic "porous substrate bioreactors"; textured tiles grew better than plain ones | Texture as a design variable ⚠ ([Waterloo](https://uwaterloo.ca/symbiosis-lab/research/chlorella-ceramics)) |
+| 2020 onwards | Archireef | 3D-printed terracotta reef tiles | See section 2 ✔ |
+
+**Art: wild and local clay (no living component)**
+- **Rietveld Academie, Wild Clay Project (2025):** local clay as material and metaphor ⚠ ([Rietveld](https://rietveldacademie.nl/en/page/33735/wilde-clay-2025)).
+- **Great North Staffordshire Clay Map (Clay College Stoke, 2026):** residents collect local clay for a shared map and artwork ⚠ ([report](https://daily-focus.co.uk/2026/03/community-invited-to-help-create-north-staffordshire-clay-map/)).
+- **International Wild Clay Research Project (Montana State University):** XRD and SEM analysis of native clays, building a database for artists ⚠ ([MSU](https://scholarworks.montana.edu/items/6c6051c9-8572-4ed9-ae86-fa8840850ce6)).
+- Also a Vienna urban-clay mapping project and Hayley Cranberry Small's Hudson Valley clay cartography ⚠.
+
+**Science: cyanobacteria living in or on ceramics and stone**
+- **Historic glazed tiles (azulejos, Portugal):** biofilms of green algae, cyanobacteria and fungi; phototrophs grow into glaze cracks, and aged tiles are more bioreceptive ✔ (Coutinho, Miller and colleagues, Évora and Lisbon, 2015–2016).
+- **Artistic tiles in Venice:** coloured stains caused mainly by **cryptoendolithic cyanobacteria**, which live *inside* the material ⚠ (*Microbial Ecology* 2011).
+- **Terracotta temples, Bishnupur (India):** blackish crusts with *Gloeocapsa*, with UV-sunscreen pigments ⚠.
+- **Roof tiles:** cyanobacteria (*Oscillatoria*, *Gloeocapsa*) colonise ceramic roofing tiles, and dark sheath pigments cause blackening ⚠ (e.g. *J. Appl. Phycol.*, doi:10.1007/s10811-005-9018-2).
+- **Desert rocks:** in hyper-arid deserts, *Chroococcidiopsis* lives **inside rock pores**, which hold water and filter UV. Some strains make **chlorophyll f** to use the far-red light that reaches inside the rock ✔ (*Microorganisms* 2022; Timna Valley 2025). **This is a natural model for a colony inside a porous vessel wall [H].**
+- **Ceramic membrane photobioreactor (2021):** *Chlorella* biofilm grown on a capillary ceramic membrane, about 4.65 g/m² per day ⚠.
+
+**What this shows (honest reading) [H]**
+1. **Cyanobacteria as sound or instrument already exists** (Algae Chorus 2022; Photosynthesizer 2026). So "cyanobacteria make sound" is not new on its own.
+2. **Living printed structures already exist** (ecoLogicStudio, Picoplanktonics), but in gels and polymers, not fired clay.
+3. **Fired clay colonised by life exists** (SUBMERGED, UCL tiles, Archireef, and every old roof tile), but without sensing, sound or a "record" idea.
+4. **Wild-clay mapping exists** as craft and community art, but without the living or sensing side.
+5. **The combination still looks open:** clay from several real places, each colonised by its own community, in identical vessels with the same sensing and sound rules, read and then fired as a record. Say "as far as a broad search found", not "first ever".
+6. **Contacts worth considering:** Annemarie Maes (Brussels) for a conversation about cyanobacteria in art; the Rietveld and Staffordshire wild-clay projects for method.
+
 **The design idea:** keep everything the same except the clay and its life (same vessel form, same node, same rule). Then the differences you hear belong to the place. Present this as attentive comparison in the field, not as proof [H].
 
 **Candidate sites and traditions (from quick searches, mostly craft and tourism sources; check before citing):**
