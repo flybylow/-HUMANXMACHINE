@@ -122,3 +122,18 @@
 - **Coutinho and Miller** (Évora, Lisbon): cyanobacteria on azulejos.
 - **Jef Huisman** (Amsterdam): blooms and climate.
 - Artists: **Annemarie Maes** (already noted), **Jorge Rojas** (Biocrust Project), **Kristina Õllek**, **Yan Shao**, **Lena Kuzmich and Tony Wagner**.
+
+---
+
+## Addendum: biophotovoltaics (living electricity) in more depth
+
+- **Core paper:** Bombelli P. et al. 2022. Powering a microprocessor by photosynthesis. *Energy Environ. Sci.* 15:2529–2536. [doi:10.1039/D2EE00233G](https://doi.org/10.1039/D2EE00233G) ✔. *Synechocystis* on an **aluminium anode** in an AA-sized cell ran an Arm Cortex M0+ for over six months in ambient home light ✔ [L]. The exact power figures and duty cycle were not found in abstracts ⚠; read the full text (open versions via the Southampton and NTNU repositories).
+- **Printed cells:** Sawa M. et al. 2017. Electricity generation from digitally printed cyanobacteria. *Nat. Commun.* 8:1327. [doi:10.1038/s41467-017-01084-4](https://doi.org/10.1038/s41467-017-01084-4) ✔. Cyanobacteria were inkjet-printed on carbon nanotube ink on paper, with a gel instead of liquid. They produced current in light and dark for over 100 hours, enough for a small clock or LED ✔ (press figures) [L].
+- **Review:** McCormick A.J. et al. 2015. Biophotovoltaics: oxygenic photosynthetic organisms in the world of bioelectrochemical systems. *Energy Environ. Sci.* 8:1092–1109. [doi:10.1039/C4EE03875D](https://doi.org/10.1039/C4EE03875D) ✔ (open access). Conclusion: outputs are far too low for commercial power [E].
+- **Design and art collaborations with Bombelli (2011–2016):**
+  - *Moss Table*, with Alex Driver and Carlos Peralta (University of Brighton). The moss current drives an animation; Beyond Bauhaus award ✔ ([Cambridge](https://www.bioc.cam.ac.uk/news/moss-table-wins-international-award)).
+  - *Moss FM*, Fabienne Felder with Bombelli and Ross Dennis. Ten moss cells trickle-charge a battery that plays a radio for about one to a few minutes ✔ ([Dezeen](https://www.dezeen.com/2014/02/10/moss-biological-solar-panels-radio/)).
+  - *Moss Voltaics*, Elena Mitrofanova (IaaC), a green façade concept shown at Ars Electronica 2016 ✔ ([archive](https://webarchive.ars.electronica.art/festival/2016/radicalatoms/en/index.html%3Fp=3580.html)).
+  - **Reflection:** Bombelli has a long record of working with designers, so he is a realistic contact.
+- **Gap:** no biophotovoltaic cell with a **ceramic, terracotta or clay** separator or body was found. Bristol's terracotta *microbial* fuel cells (Winfield 2013) are the nearest. **Opening [H]:** a fired-clay vessel as the body of a cyanobacterial biophotovoltaic cell, where the vessel's voltage is the colony's trace.
+- **Honest framing:** the colony can light a tiny LED, run an ultra-low-power chip, or charge a capacitor that "speaks" now and then (the Moss FM trick). It cannot run an ESP32 with Wi-Fi.
