@@ -380,6 +380,36 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 - **And the twist for the vessels: firing changes clay.** Above roughly 500–600 °C clay minerals lose their structural water (kaolinite becomes metakaolin), so a bisque vessel is no longer a clay *mineral* in the soil sense. Much of the surface chemistry that helps microbes in soil (cation exchange, swelling layers) is reduced. Porosity remains [E, ceramics ⚠ cite a ceramics text].
 - **Design consequence [H]:** compare three states of the same local clay, namely **raw** (unfired, sun-dried), **low bisque** and **higher bisque**, or line a bisque vessel with a layer of raw local clay. This tests whether the "soil-like" clay surface or just the porous structure matters, and it adds a strong idea: *firing is the moment the clay stops being a habitat and becomes a record.*
 
+### 12b. Cyanobacteria: the oldest life you can see, and how they meet clay
+
+*Suggested by Ward. Starting page: [UCMP Berkeley, Introduction to the Cyanobacteria](https://ucmp.berkeley.edu/bacteria/cyanointro.html) (blocked in this session, so not read).*
+
+**Why they make a good opening**
+- **Visible to the naked eye as communities.** A single cell is microscopic, but cyanobacteria form green and blue-green films, mats, jelly colonies (*Nostoc*) and blooms, and they built **stromatolites**, layered rocks that still grow today (for example at Shark Bay, Australia) [E] ⚠.
+- **Among the oldest traces of life.** Layered stromatolite-like structures in the Strelley Pool Chert, Australia, are about **3.43 billion years** old ✔ (Allwood et al., *Nature* 441:714–718, 2006, doi:10.1038/nature04764) [L]. **Contested:** their biological origin is debated, and very old stromatolites need not have been made by cyanobacteria (other microbes also build mats).
+- **They changed the planet.** Cyanobacteria invented oxygen-producing photosynthesis [E]. Oxygen rose in the atmosphere during the **Great Oxidation Event, roughly 2.4 to 2.3 billion years ago** [E]. **Contested:** whether cyanobacteria appeared shortly before that or hundreds of millions of years earlier. Estimates for their origin range from about 2.7 to 3.4 billion years ago ⚠ (biomarker and molecular-clock studies, debated).
+- **A correction to the intro wording:** life already existed long before the oxygen rise. Oxygen did not let life *start*. It made aerobic metabolism, the ozone shield and, much later, complex life possible [E]. It was also toxic to many existing microbes [E].
+- **Every plant carries one.** Chloroplasts descend from a cyanobacterium taken in by an early cell (endosymbiosis) [E] ⚠ (Margulis 1967 and later molecular work; cite a review).
+- **They keep time.** Cyanobacteria have a 24-hour circadian clock, and its core (three proteins, KaiA, KaiB and KaiC) keeps ticking even in a test tube ⚠ (Nakajima et al., *Science* 308:414, 2005; check). This is a clear, non-overclaimed example of "basal intelligence": anticipating dawn.
+
+**How cyanobacteria and clay are linked** (from strongest to weakest evidence)
+| Link | What is known | Status | Source |
+|---|---|---|---|
+| **They bind soil and clay** | In desert soil crusts, the cyanobacterium *Microcoleus vaginatus* winds sticky sheaths through the soil and holds particles together, with clay particles attached to the sheaths. This improves stability, moisture and fertility. | [E] | ✔ Belnap and Gardner, *Great Basin Naturalist* 53:40–47 (1993) ([BYU](https://scholarsarchive.byu.edu/gbn/vol53/iss1/6)) |
+| **They make clay** | In salt lakes (Salar de Llamara, Chile; Great Salt Lake), magnesium clays (kerolite, stevensite) form on the slime (EPS) and sheaths of cyanobacterial mats. The clay can then mineralise the microbes. | [L] | ✔ (summaries; e.g. *Communications Earth & Environment* 2022, doi:10.1038/s43247-022-00658-5) |
+| **Clay preserves them as fossils** | In lab experiments, filamentous cyanobacteria were coated in **clay mineral veneers** within a week, which helps them fossilise. | [L] | ✔ Newman et al., *Geobiology* 15:484–498 (2017), doi:10.1111/gbi.12229 |
+| **Clay is used to remove their blooms** | Modified clays are sprayed on water to sink harmful blooms. Removal is very effective, but sediment loads and freshwater results are debated. | [E] (practice) | ✔ Yu et al., *Harmful Algae* review (2017) ([PDF](https://www2.whoi.edu/site/andersonlab/wp-content/uploads/sites/20/2018/10/Yu-et-al-Review-Mitigation-of-harmful-algal-blooms-using-modified-clays_2017.pdf)) |
+| **Land life, more clay, more oxygen** | Kennedy et al. proposed that early land microbes boosted clay formation in soils about 800 to 600 million years ago, and that clay buried organic carbon, helping oxygen rise before animals appeared. | [H], **debated** | ✔ Kennedy et al., *Science* 311:1446–1449 (2006), doi:10.1126/science.1118929 |
+| **Clay shielded them from UV** | Clay protects molecules and phage from UV in the lab. No direct test on cyanobacteria under sunlight. | [H] | Section 7 |
+| **They are the first colonisers of ceramics** | On exposed porous ceramics, phototrophs such as cyanobacteria arrive first. | [E] for biodeterioration | ⚠ *Minerals* 2025 review |
+
+**The story in one line [H, framing]:** *Cyanobacteria and clay have shaped each other for billions of years. The microbes bind, build and are preserved by clay, and clay holds the carbon that let oxygen rise.*
+
+**What this means for the vessels [H, design]**
+- Cyanobacteria are likely to appear in most site samples anyway, because they are the first colonisers of porous ceramic.
+- Their activity is **visible** (green colour) and **rhythmic** (day and night), so it suits simple sensors: a colour or spectral sensor for chlorophyll, light, and CO₂ or O₂ that rises and falls with photosynthesis. Their day and night rhythm can become the "beat" of the score.
+- This fits the simplified message: *the oldest planet-changers, singing in clay from different places.*
+
 **The design idea:** keep everything the same except the clay and its life (same vessel form, same node, same rule). Then the differences you hear belong to the place. Present this as attentive comparison in the field, not as proof [H].
 
 **Candidate sites and traditions (from quick searches, mostly craft and tourism sources; check before citing):**
@@ -466,6 +496,11 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 - Sessitsch A et al. 2001. Microbial population structures in soil particle size fractions of a long-term fertilizer field experiment. *Appl. Environ. Microbiol.* 67:4215–4224. https://doi.org/10.1128/AEM.67.9.4215-4224.2001
 - Raynaud X, Nunan N. 2014. Spatial ecology of bacteria at the microscale in soil. *PLoS ONE* 9:e87217. https://doi.org/10.1371/journal.pone.0087217
 - Bar-On YM, Phillips R, Milo R. 2018. The biomass distribution on Earth. *PNAS* 115:6506.
+- Allwood AC et al. 2006. Stromatolite reef from the Early Archaean era of Australia. *Nature* 441:714–718. https://doi.org/10.1038/nature04764
+- Belnap J, Gardner JS. 1993. Soil microstructure in soils of the Colorado Plateau: the role of the cyanobacterium *Microcoleus vaginatus*. *Great Basin Nat.* 53:40–47.
+- Kennedy M et al. 2006. Late Precambrian oxygenation; inception of the clay mineral factory. *Science* 311:1446–1449. https://doi.org/10.1126/science.1118929
+- Newman SA et al. 2017. Experimental fossilization of mat-forming cyanobacteria in coarse-grained siliciclastic sediments. *Geobiology* 15:484–498. https://doi.org/10.1111/gbi.12229
+- Yu Z et al. 2017. Mitigation of harmful algal blooms using modified clays. *Harmful Algae* 69:48–64 (pages ⚠).
 - Delgado-Baquerizo M et al. 2018. A global atlas of the dominant bacteria found in soil. *Science* 359:320–325. https://doi.org/10.1126/science.aap9516
 - Adams F. 2018. Cognition wars. *Stud. Hist. Phil. Sci. A* 68:20–30. https://philpapers.org/rec/ADACW
 - Blatt MR et al. 2024. Does electrical activity in fungi function as a language? *Fungal Ecol.* 68:101326. https://doi.org/10.1016/j.funeco.2023.101326
