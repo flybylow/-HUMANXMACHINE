@@ -433,6 +433,37 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 - Their activity is **visible** (green colour) and **rhythmic** (day and night), so it suits simple sensors: a colour or spectral sensor for chlorophyll, light, and CO₂ or O₂ that rises and falls with photosynthesis. Their day and night rhythm can become the "beat" of the score.
 - This fits the simplified message: *the oldest planet-changers, singing in clay from different places.*
 
+### 12c. Cyanobacteria: what people use them for, where they live near you, and links to clay and ceramics
+
+**Local presence (Belgium) [E, general; ⚠ details not checked]**
+- *Blauwalg* (cyanobacterial blooms) appears in Flemish lakes and ponds in summer, Bruges included. The Flemish environment agency (VMM) monitors it, and swimming waters close when blooms are toxic.
+- Blooms need warm, still, nutrient-rich water, and warmer summers make them more frequent ⚠ (Paerl and Huisman, "Blooms like it hot", *Science* 2008).
+- In winter there are no blooms, but cyanobacteria remain in soil, on stones, walls and pots, and as resting cells in lake sediment ⚠. **For the winter pilot, sample soil and pot surfaces, not bloom water. It is also safer.**
+
+**What people use cyanobacteria for (in general) [E unless noted; ⚠ sources to add]**
+- **Food:** *Spirulina* (*Arthrospira*) powder and tablets. Traditionally harvested at Lake Chad and by the Aztecs at Lake Texcoco. *Nostoc* is also eaten in parts of Asia.
+- **Blue colour:** phycocyanin from spirulina is used as a natural blue food colouring.
+- **Fertiliser:** nitrogen-fixing cyanobacteria (*Anabaena*, living inside the water fern *Azolla*) have long been used in rice paddies.
+- **Soil repair:** inoculating dry land with crust-forming cyanobacteria to stop erosion (see 12b; [L] to field trials).
+- **Research and biotech:** *Synechocystis* and *Synechococcus* are model organisms for photosynthesis, the circadian clock, and fuels or chemicals made from light and CO₂ [L].
+
+**Links to clay and ceramics** (new this round; mostly lab-scale)
+| Link | What was done | Status | Source |
+|---|---|---|---|
+| **3D-printed clay tiles designed to be colonised** | UCL (Bartlett) robotically extruded clay structures, designed by computer to hold water and nutrients for algae and bacteria. First inoculation tests showed stable algae growth. **Closest precedent to Ward's extruder work.** | [L] | ⚠ Morais, Cruz, Parker (UCL), found via search; theory in Cruz and Beckett, "Bioreceptive design" ([UCL Discovery PDF](https://discovery.ucl.ac.uk/10047778/1/160304_CruzBeckett_final%20submission_2.pdf)) |
+| **Cyanobacteria are the first colonisers of building materials** | Cruz and Beckett note that phototrophic algae and cyanobacteria are typically the first to colonise building surfaces. | [E] | ✔ via search (same PDF) |
+| **Porosity decides colonisation** | Sintered porous glass tiles grew the alga *Chlorella* best at one firing temperature (700 °C, within a 680–740 °C range). Capillary porosity and water uptake were the key factors. | [L] | ✔ Surrey, Bath and Imperial study ([Bath portal](https://researchportal.bath.ac.uk/en/publications/optimising-the-bioreceptivity-of-porous-glass-tiles-based-on-colo/)) |
+| **Old glazed tiles are more colonised than new ones** | Aged glazed tiles proved more bioreceptive than new ones, because ageing raised their capillarity and permeability. Growth inside the pores damaged the tiles. | [L] | ✔ *Biofouling* 2015 ([record](https://informahealthcare.com/doi/abs/10.1080/08927014.2015.1135242)) |
+| **Fired clay as the core of microbial fuel cells** | Terracotta cylinders act as both body and membrane of fuel cells. Live microalgae were fed into terracotta cells and raised power from 7 to 44 µW. Algae and cyanobacteria can also colonise the open cathode. | [L] | ✔ UWE Bristol ([repository](https://uwe-repository.worktribe.com/output/913948)); review in *Front. Bioeng. Biotechnol.* 2024 |
+| **Clay removes cyanobacterial toxins** | Clays, especially montmorillonite, bind microcystin-LR, the main bloom toxin. Over 81% was removed in a first study, and clay reduced toxicity to small freshwater animals (*Hydra*) by 60–80%. | [L] (batch tests, not full-scale water treatment) | ✔ Morris et al., *Toxicon* 2000, and later studies (via search) |
+| **Clay sinks blooms** | Modified clays are sprayed on water to flocculate and sink harmful blooms. | [E] practice | ✔ Yu et al. 2017 review (see 12b) |
+| **Clay as a carrier for living cyanobacteria** | Cyanobacteria (*Synechococcus*, *Synechocystis*, *Chroococcidiopsis*) were embedded in porous coatings with **halloysite**, a tube-shaped clay mineral, and kept producing oxygen. | [L] | ✔ via search (record on [DataCite](https://commons.datacite.org/doi.org/10.6084/m9.figshare.23284340)) |
+| **Pigments from cyanobacteria for tiles** | A Florence design and microbiology group explored cyanobacterial pigments to colour tiles made from stone waste. | [L] | ✔ via search (details not checked) |
+
+**What this adds to the project [H]**
+- *Clay and ceramics both host and fight cyanobacteria.* Clay feeds, shelters and preserves them, and is also used to sink their blooms and bind their toxins. That two-way relationship is a good "Dirty Lab" story.
+- The UCL 3D-printed clay tiles and the porous-glass firing study suggest a concrete test: **print or extrude vessels with designed textures, fire them at a few temperatures, and see where cyanobacteria settle first.**
+
 **The design idea:** keep everything the same except the clay and its life (same vessel form, same node, same rule). Then the differences you hear belong to the place. Present this as attentive comparison in the field, not as proof [H].
 
 **Candidate sites and traditions (from quick searches, mostly craft and tourism sources; check before citing):**
