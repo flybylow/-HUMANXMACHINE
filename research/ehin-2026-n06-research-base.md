@@ -2,8 +2,9 @@
 
 **Narrative:** N06, mineral and living intelligence (with N01, N02 and N04 where useful)
 **Core question:** *What kind of intelligence does a clay vessel with living organisms have, and how can a network of microcontrollers make that intelligence perceivable?*
-**Call:** EHIN Residencies. Deadline 4 December 2026, 23:59 CET (30 days from this file's date, 4 November 2026). Residency February 2027 to January 2028. Up to €25,000 covering fee and production together. Dissemination runs until October 2028.
-**Prepared:** 4 November 2026, for Ward.
+**Second question (local and universal):** *Which part of a vessel's response is shared by all clays, and which part belongs to its place?*
+**Call:** EHIN Residencies, host **LABoral** (Gijón), chosen by Ward. Deadline 4 December 2026, 23:59 CET (30 days from this file's date). Residency February 2027 to January 2028. Final exhibition at ZKM, 13 September to 22 October 2028.
+**Prepared:** 4 November 2026, for Ward. Updated the same day with the official call page and the Guide for Applicants v2.
 
 ---
 
@@ -27,22 +28,48 @@ Sources carry one of two marks:
 1. "Intelligence" is a framing choice, not a measurement. In this file it means *a graded capacity to sense, keep, process and respond to information* (after Lyon 2006 and Levin 2019). Under that definition clay, microbes, fungi and AI all sit somewhere on one scale. That does not make them equal, and it does not mean any of them thinks.
 2. Microcontrollers measure **proxies**: voltage, humidity, temperature, light, CO₂, colour. They do not read thoughts or meanings. Turning a proxy into sound or light is an artistic decision, so the proposal should present it as a method, not as a finding.
 
-**Source note:** host details in section 11 come from the EHIN open-call page text that Ward pasted on 4 November 2026. The Guide for Applicants v2 (PDF) has not been read yet.
+**Sources for the call:** the EHIN open-call page and the *Guide for Applicants v2*, both pasted by Ward on 4 November 2026.
 
-### What the call actually asks for (read this before framing)
+## 0. What the call and the Guide require
 
-The call text says EHIN studies "how living organisms generate, exchange, and respond to information **within natural ecosystems**". It treats biological processes "**not merely as technological alternatives to silicon computing**, but as a way to understand ecological interdependence and interspecies communication". It asks artists to "step into **real world environments**, examine **multi-species relationships**".
+### Key facts (from the Guide)
 
-Three consequences for this project:
-1. **Drop "alternative to silicon" as the main argument.** The Notion concept page uses it, but the call explicitly moves away from it. Keep the clay, microbes and AI contrast (section 9) as context, not as the main argument.
-2. **Add a field and ecosystem component.** A single lab culture in a vessel is narrower than the call. One option is to source clay and microbes from one real site, let a local community colonise some vessels, and place some vessels back in that environment. A cyanobacterium can still serve as the reference culture [H, design].
-3. **"Multi-species"** favours mixed communities (clay, cyanobacteria, other bacteria, fungi, and the people who tend them) over a single organism. This has to be balanced against biosafety (see the open questions).
+| Item | What the Guide says | What it means for you |
+|---|---|---|
+| Places | 6 artists, one per host | You compete only for the LABoral place. |
+| Who can apply | **Established artists** with a sustained, public track record; EU resident or taxpayer; a VAT or tax number; not affiliated with any consortium partner | The CV and portfolio must show exhibitions. |
+| Team | Each residency pairs **1 artist, 1 biocomputing expert (Gómez Blas), 1 local field practitioner** (forester, herbalist, fisherman, biologist, farmer or other environmental steward). The host pays both. | Propose a field practitioner who fits clay (see section 12). |
+| Phase 1 | February to September 2027 at the host (LABoral): fieldwork, concept, **Open Dirty Lab 1** | The Guide asks for at least 30 days on site; **LABoral asks for 6–8 weeks**. Plan for 6–8 weeks. |
+| Phase 2 | October 2027 to January 2028 at a **second partner lab of your choice** (one artist per lab): finish the work, **Open Dirty Lab 2** | Choose a lab that complements LABoral (section 13). Its budget is extra but **not guaranteed**. |
+| Outputs | An exhibition-ready artwork; 2 Open Dirty Labs; an **Open Dirty Lab protocol** co-written with the expert and the practitioner for the open-access **LabBook**; a residency blog; interviews | The protocol is a natural home for the "proxy to sound" method. |
+| Shows | A local show at the host (November 2027 to October 2028), then the **ZKM group show, 13 Sep to 22 Oct 2028** | The work must travel. Fired vessels travel easily; living ones are harder. |
+| Budget | Up to **€25,000**; **fee at most 35% (€8,750)**; the rest is production. Travel and accommodation are arranged separately with the host. | Production budget of about €16,250 or more. |
+| Payment | 40% at signing, 40% after an **evaluation in October 2027**, 20% after the final report (at most 5 pages) | Have a visible result by October 2027. |
+| Selection | Top 3 per host are invited to **pitch**; results by **end of January 2027** | Prepare a short pitch in January. |
+| Submission | Online form only; CV (PDF), portfolio (PDF), images and sketches; English; **cannot be edited after submission** | Extra material is ignored. |
+| Contact | Call questions: ramona@gluon.be. Project questions: jana.putrle@kapelica.org | Use these, not the general LABoral address. |
+
+**Scoring.** *Excellence* (fit, innovative potential, artistic quality), *Implementation* (collaboration, artistic vision, feasibility), *Impact* (community and public debate, science–art synergies, ripple effect for future research and your own trajectory).
+
+### Framing: what the Guide says about intelligence, biocomputing and labs
+
+- **Hybrid intelligence** = "the interaction between different cognitive systems rather than the combination of human and artificial intelligence", emerging through "ecological interdependence". → The vessel is not one mind. It is an interaction of clay, microbes, people and machines. This fits N06.
+- **Biocomputing** = how living organisms "generate, process, **store**, and exchange information … from molecules to cells, to ecosystems". → *Store* is where clay as memory comes in (section 8).
+- "**Rather than attempting to fully decode biological communication**, the project explores **traces, signals and relationships**." → This matches the honesty rule in this file: we read proxies and traces, we do not decode a language.
+- **Silicon.** The Guide says both: biocomputing as "a creative and ecological alternative to energy-intensive, silicon-based technologies", **and** "rather than treating it *only* as a technological alternative". **Correction to the earlier version of this file:** don't drop the silicon contrast. Keep it as one strand, but don't make it the main argument.
+- Artists are "invited to use … **sensors and AI-based interpretation of data streams**". → An AI layer that reads the vessel data (for example, your PySR pattern-discovery trial) is welcome, as long as it is labelled as interpretation [H, design].
+- **Dirty Lab** (the core method): start in the field, not with a lab hypothesis; study **relationships between multiple living beings, not a single organism**; contrast with the "Clean Lab model of mono-culture research"; treat the whole research process as part of the artwork; welcome "experimentation, improvisation, and uncertainty rather than controlled experiments".
+
+**Consequences for the project (these replace earlier advice):**
+1. **The field comes first.** The project starts with clay sites in Asturias, the communities living in them, and the field practitioner. The studio vessels come after.
+2. **Use mixed, local communities, not a pure culture.** A single cyanobacterium reads as "Clean Lab". Use it, if at all, only as a small reference set, and say so.
+3. **Keep the comparison loose.** The "same rules, different clays" design (section 12) still works, but present it as attentive comparison in the field, not as a controlled experiment.
 
 ---
 
 ## Executive summary (one page)
 
-**The idea.** A porous clay vessel is a habitat and a record at the same time. Living organisms (cyanobacteria first, possibly fungi later) grow in and on the clay. Each vessel, or each small group of vessels, has its own microcontroller. The microcontroller logs slow proxies of the colony's activity (moisture, light absorbed, CO₂, surface voltage, colour change) and turns them into light and sound. The vessels talk to each other over a local mesh, so there is no central brain. The colony also leaves marks in the clay over months. At the end, some vessels can be fired, so that part of the record becomes permanent, the way a sealed clay token envelope became a record.
+**The idea.** A porous clay vessel is a habitat and a record at the same time. Clays are dug at several sites in Asturias, and each clay is colonised by its own site's living community (bacteria, cyanobacteria, algae, fungi). Every clay is local in its minerals, history and microbes, and universal in its origin (elements made in stars, the same mineral physics everywhere). Each vessel, or each small group of vessels, has its own microcontroller. The microcontroller logs slow proxies of the colony's activity (moisture, light absorbed, CO₂, surface voltage, colour change) and turns them into light and sound. The vessels talk to each other over a local mesh, so there is no central brain. The colony also leaves marks in the clay over months. At the end, some vessels can be fired, so that part of the record becomes permanent, the way a sealed clay token envelope became a record.
 
 **Why the history supports it.**
 - *Clay as an active material.* Clay minerals concentrate and protect molecules and microbes, and they catalyse chemistry. Ferris and Orgel grew RNA-like chains up to 55 units long on montmorillonite (1996) [L]. Szostak's group showed that clay speeds up the formation of membrane vesicles about 100-fold (2003) [L]. Stotzky showed in the 1960s that clays buffer pH and support bacteria [E]. That clay *started* life remains a contested hypothesis [H].
@@ -52,11 +79,11 @@ Three consequences for this project:
 
 **What is new.** The pieces exist separately: living ceramics in a lab, fired clay as a record in archaeology, bio-art in galleries, sensor meshes in maker culture. As far as this search found, **nobody has grown a living culture on ordinary fired or raw clay vessels, logged it for months with a distributed sensor network, and then fired part of it as a permanent record** [H, novelty not exhaustively verified]. Ward's practice already holds most of the technical parts: ESP32 mesh nodes (MycoMesh), ceramic speaker nodes, a craquelure reader (Singing Bowls), light-into-clay chemistry with firing (Stardirt), a surface pattern reader, and a paste extruder.
 
-**The honest gap.** Ward has no wet-lab training yet. The project needs a biologist partner and the host's biosafety rules. Cyanobacteria are the safest starting organism (photosynthetic, non-pathogenic strains, already used in ceramics at ETH).
+**The honest gap.** Ward has no wet-lab training yet. LABoral has no in-house wet lab, so the project needs a biology partner from LABoral's university network and a clear biosafety approach for wild communities (for example, sealed vessels and no deliberate culturing of unknown isolates). The Phase 2 co-production lab can provide the wet-lab side (section 13).
 
-**Host fit in short (now checked against the call page).** **LABoral** (Gijón) fits strongly. Dr Gómez Blas studies how intelligence "can emerge decentralized through the cooperation of multiple simple elements, rather than relying on a single central processor". That is almost exactly the vessel mesh. She also holds a biology degree, and LABoral has coast, mountains and forest nearby for fieldwork. **Kersnikova** (Ljubljana) fits strongly too: a wet lab and a field lab, and the call names "non-human cognition" and "ecosystemic intelligence", but it asks for some wet-lab experience. **Kontejner** (Zagreb) is a good outside option, because it names "unconventional computing" and "materiality". Gluon fits the biofabrication material but leans medical. CPN and ZKM fit less well. See section 11.
+**Host and plan.** **LABoral** (Gijón) is the chosen host. Its expert, Dr Gómez Blas, studies how intelligence "can emerge decentralized through the cooperation of multiple simple elements, rather than relying on a single central processor". That is almost exactly the vessel mesh. LABoral has a fabLAB and a soundlab, and coast, mountain and forest sites nearby. Asturias also has living clay traditions (Faro, Miranda, Llamas del Mouro). For Phase 2, **Kersnikova** (BioTehna wet lab) looks like the best complement. See sections 11 to 13.
 
-**Before drafting:** read the Guide for Applicants v2, reframe around ecosystems and multi-species relationships (see "What the call actually asks for" above), read the four core papers in full (Dutto 2024, Winfield 2013, Ferris 1996, Blatt 2024), and settle the organism and the definition of intelligence. Open questions are listed at the end.
+**Before drafting:** settle the field practitioner and the clay sites, read the four core papers in full (Dutto 2024, Winfield 2013, Ferris 1996, Blatt 2024), write down the definition of intelligence and the proxy-to-sound method, and draft the budget (fee at most €8,750). Open questions are listed at the end.
 
 ---
 
@@ -203,13 +230,13 @@ Artworks that worked with living organisms, clay, computation or biological mate
 
 > **Clay remembers. Living things respond. We listen, and we say how.**
 >
-> Clay was there before life. It may have sheltered life's first molecules, and it still shelters microbes in every soil. People later used it as one of the first ways to keep records. This project asks what kind of intelligence lives in a clay vessel that holds a living colony. It treats intelligence not as thought, but as a graded capacity to sense, keep and respond to information, spread across mineral, microbe and machine.
+> Every clay is local. Its minerals, its colour and the life inside it come from one place and a very long history. Every clay is also universal. Its elements were made in stars, and it forms by the same slow weathering everywhere on Earth. Clay may have sheltered life's first molecules, it still shelters microbes in every soil, and people later used it to keep their first records.
 >
-> Each vessel is an agent. A small microcontroller listens to its colony's slow signals (moisture, light, gas, voltage) and voices them as light and sound. The vessels talk to their neighbours, not to a central brain. Over a year, the colonies write marks into the clay. At the end, some vessels are fired, so the living record becomes a mineral one, like a sealed clay envelope.
+> In Asturias we dig clay at several sites, with the people who know them, and let each clay's own living community grow in vessels made from it. Each vessel has a small microcontroller that listens to slow signals (moisture, light, gas, voltage) and voices them as light and sound. The vessels talk to their neighbours, not to a central brain. Every vessel follows the same rules, so what differs is the place.
 >
-> We do not claim the vessel thinks. We show, openly and step by step, how a living material becomes perceivable, and where our own choices shape what is heard.
+> Over the year the communities leave traces in the clay. At the end some vessels are fired, and the living record becomes a mineral one. We do not decode a language or claim that the vessel thinks. We show, step by step, how relationships between mineral, microbe, machine and people become perceivable, and where our own choices shape what is heard.
 
-(About 190 words. For the application, cut or extend it to match the word budget.)
+(About 230 words. For the application, cut or extend it to match the word budget.)
 
 ---
 
@@ -257,13 +284,13 @@ Each cell has a source or a tag. **[H]** means the cell is this project's hypoth
 
 | | **Clay (fired or raw)** | **Microbes (bacteria, cyanobacteria)** | **Fungi (mycelium)** | **AI (machine learning)** |
 |---|---|---|---|---|
-| **Role** | Habitat, buffer, catalyst, record. Supports bacteria by buffering pH (Stotzky 1966 ✔). Catalyses RNA-like chains (Ferris 1996 ✔, [L]). | Sense and respond collectively. Electrical waves in biofilms (Prindle 2015 ✔, [L]). Photosynthesis and CO₂ uptake in ceramics (Dutto 2024 ✔, [L]). | Explore, connect and transport. Network decisions (Fukasawa 2024 ✔, [L]). Logic-like input and output (Roberts and Adamatzky 2022 ✔, [L]). | Recognises and generates patterns from data [E]. In this project, AI is *not* in the vessels: the microcontrollers run simple rules [H, design choice]. |
+| **Role** | Habitat, buffer, catalyst, record. Supports bacteria by buffering pH (Stotzky 1966 ✔). Catalyses RNA-like chains (Ferris 1996 ✔, [L]). | Sense and respond collectively. Electrical waves in biofilms (Prindle 2015 ✔, [L]). Photosynthesis and CO₂ uptake in ceramics (Dutto 2024 ✔, [L]). | Explore, connect and transport. Network decisions (Fukasawa 2024 ✔, [L]). Logic-like input and output (Roberts and Adamatzky 2022 ✔, [L]). | Recognises and generates patterns from data [E]. In this project, AI is *not* in the vessels: the microcontrollers run simple rules. An optional offline AI layer may *interpret* the data streams, which the Guide explicitly invites, as long as it is labelled as interpretation [H, design choice]. |
 | **Speed** | Fired record: fixed at firing, then stable for millennia (Howland 2023 ✔). Mineral change: years to geological time ⚠. | Biofilm signals: hours (Prindle 2015 ✔). Growth: hours to days [E]. | Spikes: minutes to hours (Olsson 1995 ✔; Adamatzky 2022 ✔). Oscillation: about one week (Fukasawa 2024 ✔). | Milliseconds per inference [E]. Training: weeks, very energy-hungry [E]; give a figure only with a source ⚠. |
 | **Structure** | Layered silicate sheets. When fired, a porous network whose porosity depends on clay body and temperature (Winfield 2013 ✔). | Biofilm: cells in a self-made matrix, **no centre** (Prindle 2015 ✔). | Hyphal network that grows where it is used, **no centre** (Tero 2010 ✔ for *Physarum*, a slime mould and not a fungus; Fukasawa 2024 ✔). | Layered artificial network, usually **centralised** in data centres [E]. |
 | **What it keeps** | Marks, magnetic field, absorbed residues, firing atmosphere (section 8, ✔). Not sound (✔). | Mineral deposits (carbonate) (Heveran 2020 ✔; Dranseike 2025 ✔). Short-term "memory" of potassium state ⚠ (later Süel-lab work). | Network shape reflects past resources ⚠ (Fukasawa et al. 2020). | Statistical weights of training data, not the events themselves [E]. |
 | **In the vessel** | The archive [H] | The responder [H] | Optional second responder [H] | The *listener* is the microcontroller mesh, not AI [H] |
 
-**Note on N02's line "AI is the newest, most centralised and energy-hungry":** this is fair as a contrast [E in general terms], but put a sourced energy figure in the proposal or leave the number out. The call explicitly says it does *not* want biology framed "merely as technological alternatives to silicon computing", so keep this line in the background.
+**Note on N02's line "AI is the newest, most centralised and energy-hungry":** this is fair as a contrast [E in general terms], but put a sourced energy figure in the proposal or leave the number out. The Guide uses both framings: biocomputing as "a creative and ecological alternative to energy-intensive, silicon-based technologies", but not "only" as an alternative. Keep this line as one strand.
 
 ## 10. Gaps (what no one seems to have tested)
 
@@ -277,9 +304,11 @@ All are [H]. They are gaps *as far as this search found*, which was not exhausti
 6. **UV shielding by clay for cyanobacteria under real sunlight**, not 254 nm lamps (from N01 and N05).
 7. **The method gap:** a documented, reusable mapping from biological proxies to sound and light that says clearly what is measured and what is chosen.
 
-**A realistic first experiment (pilot, months 1–3):** 12 small bisque vessels (3 clay bodies × 2 bisque temperatures × 2 surface treatments). A non-pathogenic cyanobacterium (for example, *Synechococcus* PCC 7002, as used at Boulder, or *Synechocystis*, to be confirmed with the host). One node per vessel logs humidity, temperature, light transmitted or absorbed, CO₂ and surface voltage, plus weekly imaging with the pattern reader. Controls: sterile vessels with the same medium [H, design].
-
-**Field extension (to match the call):** a second set of vessels made from clay dug at one real site, colonised by that site's own community (soil or water inoculum), with some vessels placed back in the field with weatherproof nodes. This compares a lab "reference" colony with a wild multi-species one [H, design; biosafety to clear with host].
+**Revised plan, following the Dirty Lab method:**
+- **Pre-residency pilot (November 2026 to January 2027, in Bruges):** about 12 small vessels from one known clay (for example, a Flemish clay) at 2 bisque temperatures, colonised by soil or water from one local site. Test the nodes, the sensors and keeping the vessels alive. This answers the "no wet-lab experience" gap with evidence [H, design].
+- **Phase 1 field work (spring to summer 2027, in Asturias):** with the field practitioner, dig clay at 3 to 5 sites. Record each site (sound, image, sensor data with the Mobile Pattern Reader). Make vessels from each clay at LABoral, using the fabLAB and the 300CC or a clay printer. Colonise each clay with its own site's community. Run the same node and rule on every vessel. Place some vessels back at their sites with weatherproof nodes [H, design].
+- **Sensing per node:** humidity, temperature, light, CO₂, surface voltage, plus weekly imaging [H, design].
+- **Optional reference:** a small sealed set with one known cyanobacterium, labelled clearly as the "clean" reference against the "dirty" field communities [H].
 
 ## 11. Host fit
 
@@ -294,45 +323,99 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 | **CPN** (Belgrade, Serbia) | **Andrej Savić** (no biography on the page) and **Marko Mišić** (University of Belgrade: GPU computing, bioinformatics, image processing, ML, spatial transcriptomics) ✔. Expert group: bioinformatics, **biological signal processing**, neuroengineering. | Makerspace and digital fabrication; possible partners: Botanical Garden "Jevremovac", Institute of Molecular Genetics and Genetic Engineering, Centre for Data Processing | Cross-disciplinary artists; community-based work is an advantage; English | **Medium.** Good for signal processing and pattern analysis (the Mobile Pattern Reader data), and the botanical garden could offer a field site. Wet-lab access is unclear. |
 | **ZKM** (Karlsruhe, Germany) | **Prof Lennart Hilbert** (chromatin, transcription, DNA-nanomotifs, "DNA computers") ✔. Network: KIT, MPI for Intelligent Systems Stuttgart, Göpfrich Lab (Heidelberg), SOS Lab (TU Darmstadt). | Hertz-Lab; production and exhibition support | Biohybrid systems with **living tissues, organoids, neural activity, soft electronics, robotics**; a "strong scientific background"; English and German | **Low.** The focus is molecular and biohybrid robotics, not clay or ecosystems. |
 
-**Recommendation:** **LABoral** or **Kersnikova**. You can apply to only one.
-- Choose **LABoral** if the core of the proposal is the *network of simple agents* (the vessels) and its sound. That is your strongest existing practice, and it matches Gómez Blas's research almost word for word. Pair it with a field site on the Asturian coast or in the mountains (local clay and local microbes), and name a biology partner.
-- Choose **Kersnikova** if the core is *growing* the living clay and keeping it alive, and you can show wet-lab preparation before February 2027.
+**Decision:** **LABoral** (chosen by Ward, 4 November 2026). Kersnikova is the leading candidate for Phase 2 (section 13).
+
+## 12. Local and universal: clay sites in Asturias
+
+**Why "local" is real.**
+- Each clay's minerals, iron content, colour and firing behaviour come from its parent rock and history [E].
+- Its living community depends on place and use. In earthen walls, building history mattered more than clay composition ✔ (Simons 2020) [E].
+
+**Why "universal" is real.**
+- The elements in clay (silicon, oxygen, aluminium, iron) were made in stars [E].
+- Clay minerals form by the same weathering of rock everywhere [E].
+- A global survey of 237 soils on six continents found that **about 2% of bacterial types (roughly 500) make up almost half of soil bacterial communities worldwide** ✔ (Delgado-Baquerizo et al., *Science* 359:320–325, 2018, doi:10.1126/science.aap9516) [E, one large study].
+- So soils are unique in their mix and history, and share a common core. That core is the bridge from local to universal.
+
+**The design idea:** keep everything the same except the clay and its life (same vessel form, same node, same rule). Then the differences you hear belong to the place. Present this as attentive comparison in the field, not as proof [H].
+
+**Candidate sites and traditions (from quick searches, mostly craft and tourism sources; check before citing):**
+
+| Site | Why it matters | Source |
+|---|---|---|
+| **Faro** (Limanes, Oviedo) | Pottery village that was a significant producer in the 19th century and still works the traditional way; the "paxara" motif (half fish, half bird). Studied since 1891. | ⚠ [asturias.com](https://asturias.com/ceramica-de-faro/); Ibáñez de Aldecoa, *Cerámica tradicional de Faro* (1984) |
+| **Miranda** (Avilés) | Black pottery; potters recorded in notarial archives from 1644 (popular source) | ⚠ |
+| **Llamas del Mouro** (Cangas del Narcea) | Black ware from local clay, blackened by smoke in a reduction firing. This links to Stardirt's saggar reduction tests. Kept alive by one family (Raúl Mouro). | ⚠ [Homo Faber](https://www.homofaber.com/en/artisans/ral-mouro-gy8vyu); [brochure](https://www.asturiasnatural.com/imagenes/noticias/cultura/1316/ceramica_negra_de_llamas_del_mouro.pdf) |
+| **Dinosaur Coast** (Gijón to Ribadesella) | Upper Jurassic formations (Vega, Tereñes, Lastres) with dinosaur footprints: soft ground as a record across about 150 million years. **Protected: use it as context, do not dig there.** MUJA museum at Colunga. | ⚠ [Turismo Asturias](https://www.turismoasturias.es/en/descubre/naturaleza/espacios-protegidos/yacimientos-de-icnitas) |
+| **Flemish clay** (home, Bruges) | One "foreign" voice in the set, and the pilot clay; connects Bruges to Gijón | [H] |
+
+**Field practitioner candidates** (the Guide lists forester, herbalist, fisherman, biologist, farmer or other environmental steward):
+- A **traditional potter who digs local clay** (Faro or Llamas del Mouro). This is not on the list, so ask LABoral whether it counts [H].
+- A **farmer** working clay soils [H].
+- A **geologist or soil biologist** from the University of Oviedo [H].
+
+## 13. Residency plan sketch (LABoral, with a Phase 2 partner)
+
+| Period | Where | What | Output |
+|---|---|---|---|
+| Nov 2026 to Jan 2027 | Bruges | Pilot vessels, nodes, keeping cultures alive; the pitch if shortlisted (results by end of January) | Evidence of wet-lab readiness |
+| Feb to Mar 2027 | Online | Kick-off with LABoral, Gómez Blas and the practitioner; site selection | Site list, biosafety plan |
+| Apr to Jun 2027 | Gijón (block 1, about 4 weeks) | Fieldwork, clay digging, making vessels, colonising them, installing nodes in the field and the studio | Living vessels running |
+| Jul to Sep 2027 | Gijón (block 2, about 2 to 4 weeks), then remote | Listening, tuning the mesh rules with Gómez Blas (swarm and membrane-computing ideas), **Open Dirty Lab 1**, first firings | Open Dirty Lab 1; draft LabBook protocol |
+| Oct 2027 | — | **Evaluation** (triggers the second 40% payment) | Progress review |
+| Oct 2027 to Jan 2028 | Phase 2 lab | Analyse the communities (what grew where), fire the records, finish the work, **Open Dirty Lab 2** | Exhibition-ready work |
+| Nov 2027 to Oct 2028 | LABoral gallery, then ZKM (13 Sep to 22 Oct 2028) | Show: fired records plus a living, sounding subset | Exhibitions, symposium |
+
+**Phase 2 options** (one artist per lab, so have a second choice ready):
+- **Kersnikova** (BioTehna wet lab, microbiology network): analyse what lived in each clay. This turns "local" into evidence. Best complement [H].
+- **CPN** (biological signal processing, spatial analysis): analyse the long data streams and images [H].
+- **ZKM:** the final show is there anyway, but the scientific fit is weak.
+
+**Budget sketch (€25,000 maximum; to refine):**
+- Fee: up to €8,750 (35%).
+- Production, about €16,250: electronics for 20 to 30 nodes (at roughly €15 to €25 per node, based on MycoMesh costs), field-proof housings, sensors (CO₂ and spectral sensors cost the most), clay and kiln firings, consumables and lab services, the Open Dirty Lab materials, documentation, and shipping to the exhibitions.
+- Travel and accommodation are arranged separately with the host (confirm what is covered).
 
 ## Open questions to verify before drafting
 
-**Call and host**
-1. ~~Confirm the six hosts and scientists~~ (done, from the call page). Still open: is LABoral the chosen host? Read the Guide for Applicants v2: <https://europeanhybridintelligencenetwork.eu/wp-content/uploads/2026/10/EHIN-Open-Call-Guide-for-applicants-v2.pdf>
-2. Is the residency near full-time? What share of the €25,000 is the fee? When are selections announced? (Email LABoral, Gluon or Kersnikova.)
-3. Biosafety: which organisms and biosafety levels does each host allow? Can living vessels travel to exhibition venues?
-4. Andrej Savić has no biography on the call page; find his field. For LABoral: which university biology department could host the living part, and is there wet-lab space in Gijón? How would a field site work in Asturias (local clay, coast or mountain)?
-4b. How will "multi-species" and "natural ecosystems" (the call's wording) be met while keeping biosafety simple? Possible answer: a lab reference culture plus a field-colonised set.
+**Call and host (LABoral)**
+1. Does a traditional potter count as the "field practitioner"? If not, who would LABoral propose (farmer, geologist, soil biologist)?
+2. Which university biology department in LABoral's network could support the living part? Is any wet-lab space available in Gijón?
+3. Biosafety: what rules apply to wild clay communities in sealed and open vessels? Can living vessels travel to the LABoral gallery and to ZKM (September 2028)?
+4. Are travel and accommodation for both phases fully covered outside the €25,000?
+5. Which Phase 2 labs are likely to be contested? (One artist per lab.) Is Kersnikova open to a LABoral artist?
+6. Permits for digging clay at sites in Asturias, and contact with the Faro or Llamas del Mouro potters.
+7. Andrej Savić (CPN): field unknown; only relevant if CPN becomes the Phase 2 choice.
 
 **Science to read in full**
-5. Dutto et al. 2024, methods: clay body, firing temperature, porosity, how long the organisms survived.
-6. Winfield et al. 2013: how the voltage was read, and whether that set-up can be copied with an ESP32 and ADS1115.
-7. Blatt et al. 2024 and Adamatzky's reply (if there is one): electrode practice that avoids artefacts.
-8. Fukasawa et al. 2024: their 100-day recording set-up.
-9. Bernal 1951, from the original, before quoting.
-10. Confirm the DOIs marked ⚠: Ferris 2002, Hanczyc 2003, Nakagaki 2000, Babich and Stotzky 1977, phage PBS1 2000, Fukasawa 2020 *ISME J*, Miller and Bassler 2001, and the *Minerals* 2025 review.
-11. Is there any published work on cyanobacteria on clay under natural sunlight UV?
-12. Is there any published work on firing ceramics after biological colonisation, and what marks remain?
+8. Dutto et al. 2024, methods: clay body, firing temperature, porosity, how long the organisms survived.
+9. Winfield et al. 2013: how the voltage was read, and whether that set-up can be copied with an ESP32 and ADS1115.
+10. Blatt et al. 2024 and any reply by Adamatzky: electrode practice that avoids artefacts.
+11. Fukasawa et al. 2024: their 100-day recording set-up.
+12. Bernal 1951, from the original, before quoting.
+13. Confirm the DOIs marked ⚠: Ferris 2002, Hanczyc 2003, Nakagaki 2000, Babich and Stotzky 1977, phage PBS1 2000, Fukasawa 2020 *ISME J*, Miller and Bassler 2001, and the *Minerals* 2025 review.
+14. Is there any published work on firing ceramics after biological colonisation, and what marks remain?
+15. The geology of the candidate clays (parent rock, mineralogy), for example from the Spanish geological survey (IGME) or the University of Oviedo.
+16. Check the Faro, Miranda and Llamas del Mouro facts against academic sources.
 
 **Art to check**
-13. Dates and sources for the ⚠ art entries (Steichen, Haacke, Beesley, Oxman, Brain, Yi, SymbioticA).
-14. Search again for artworks with living colonies on fired clay. Try ceramics journals and Ars Electronica and STARTS archives, and ask Kersnikova.
-15. The final outcome of *Living Architecture* (2016–2019).
+17. Dates and sources for the ⚠ art entries (Steichen, Haacke, Beesley, Oxman, Brain, Yi, SymbioticA).
+18. Search again for artworks with living colonies on fired clay, and for artworks about local clay and place.
+19. The final outcome of *Living Architecture* (2016–2019).
 
 **Project decisions (Ward's)**
-16. First organism: cyanobacteria (recommended for safety and robustness), or fungi as well.
-17. The written definition of "intelligence" for the proposal (suggested: graded capacity to sense, keep, process and respond).
-18. Which proxies to log per node, and the rule that maps each proxy to sound and light, written down as method.
-19. How the pre-residency pilot (November 2026 to January 2027) answers the "no wet-lab experience" gap.
-20. Availability: periods when you cannot travel or work on site, through October 2028.
+20. The written definition of "intelligence" (suggested: graded capacity to sense, store, process and respond, in line with the Guide's definition of biocomputing).
+21. Which proxies to log per node, and the rule that maps each proxy to sound and light, written up as the LabBook protocol.
+22. What happens to the living vessels at the end: fire some, return some to their sites, keep some alive for ZKM?
+23. Whether to add an AI interpretation layer (PySR or similar) and how to label it.
+24. Availability: periods when you cannot travel or work on site, through October 2028.
+25. The CV and portfolio: which past exhibitions show that you are an "established artist"?
 
 ---
 
 ## Source list (confirmed in this session)
 
+- Delgado-Baquerizo M et al. 2018. A global atlas of the dominant bacteria found in soil. *Science* 359:320–325. https://doi.org/10.1126/science.aap9516
 - Adams F. 2018. Cognition wars. *Stud. Hist. Phil. Sci. A* 68:20–30. https://philpapers.org/rec/ADACW
 - Blatt MR et al. 2024. Does electrical activity in fungi function as a language? *Fungal Ecol.* 68:101326. https://doi.org/10.1016/j.funeco.2023.101326
 - Cairns-Smith AG. 1982. *Genetic Takeover and the Mineral Origins of Life*. Cambridge UP.
