@@ -398,6 +398,14 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 ### 12b. Cyanobacteria: the oldest life you can see, and how they meet clay
 
 *Suggested by Ward. Starting page: [UCMP Berkeley, Introduction to the Cyanobacteria](https://ucmp.berkeley.edu/bacteria/cyanointro.html) (blocked in this session, so not read).*
+*General reference kept by Ward: [Wikipedia, "Cyanobacteria"](https://en.wikipedia.org/wiki/Cyanobacteria). Use it as an overview and to find primary sources, not as a citation in the proposal.*
+
+**Names:** "blue-green algae" is the old common name for cyanobacteria. It is the same group, but the name is misleading: they are **bacteria**, not algae. True algae are eukaryotes (cells with a nucleus) [E].
+
+**What you see on water and land** [E, general; ⚠ check a field guide]:
+- **On lakes and ponds in summer:** a cyanobacterial bloom looks like spilled blue-green paint, pea soup or a green film, often with a musty smell (common genera: *Microcystis*, *Dolichospermum*/*Anabaena*, *Aphanizomenon*). But not all green water is cyanobacteria. Stringy, hair-like green mats are usually true green algae, and small floating leaves are duckweed (a plant).
+- **Field safety:** many blooms make **cyanotoxins**, which can harm people and kill dogs. Do not touch or sample a bloom without gloves and advice from the biology partner [E].
+- **On land:** dark green to black crusts on soil, black streaks on walls and roof tiles, green films on flower pots, and *Nostoc*, a jelly-like colony that swells up after rain.
 
 **Why they make a good opening**
 - **Visible to the naked eye as communities.** A single cell is microscopic, but cyanobacteria form green and blue-green films, mats, jelly colonies (*Nostoc*) and blooms, and they built **stromatolites**, layered rocks that still grow today (for example at Shark Bay, Australia) [E] ⚠.
@@ -511,6 +519,7 @@ Source: the EHIN open-call page (text pasted by Ward, 4 November 2026). ✔ mean
 - Sessitsch A et al. 2001. Microbial population structures in soil particle size fractions of a long-term fertilizer field experiment. *Appl. Environ. Microbiol.* 67:4215–4224. https://doi.org/10.1128/AEM.67.9.4215-4224.2001
 - Raynaud X, Nunan N. 2014. Spatial ecology of bacteria at the microscale in soil. *PLoS ONE* 9:e87217. https://doi.org/10.1371/journal.pone.0087217
 - Bar-On YM, Phillips R, Milo R. 2018. The biomass distribution on Earth. *PNAS* 115:6506.
+- Wikipedia contributors. "Cyanobacteria". Overview and reference list, kept by Ward: https://en.wikipedia.org/wiki/Cyanobacteria (accessed 4 November 2026; not a primary source).
 - Allwood AC et al. 2006. Stromatolite reef from the Early Archaean era of Australia. *Nature* 441:714–718. https://doi.org/10.1038/nature04764
 - Belnap J, Gardner JS. 1993. Soil microstructure in soils of the Colorado Plateau: the role of the cyanobacterium *Microcoleus vaginatus*. *Great Basin Nat.* 53:40–47.
 - Kennedy M et al. 2006. Late Precambrian oxygenation; inception of the clay mineral factory. *Science* 311:1446–1449. https://doi.org/10.1126/science.1118929
