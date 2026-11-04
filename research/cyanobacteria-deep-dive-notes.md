@@ -137,3 +137,44 @@
   - **Reflection:** Bombelli has a long record of working with designers, so he is a realistic contact.
 - **Gap:** no biophotovoltaic cell with a **ceramic, terracotta or clay** separator or body was found. Bristol's terracotta *microbial* fuel cells (Winfield 2013) are the nearest. **Opening [H]:** a fired-clay vessel as the body of a cyanobacterial biophotovoltaic cell, where the vessel's voltage is the colony's trace.
 - **Honest framing:** the colony can light a tiny LED, run an ultra-low-power chip, or charge a capacitor that "speaks" now and then (the Moss FM trick). It cannot run an ESP32 with Wi-Fi.
+
+---
+
+## Addendum 2: terracotta + fuel cell + cyanobacteria (the vessel as a living sensor)
+
+*Ward, 4 November 2026: "It's okay if we don't have enough energy to power the microcontroller. We need a signal." So the goal is a **readable living signal**, measured by a normally powered node. The energy itself is not the goal.*
+
+### How a microbial fuel cell works (plain version) [E]
+- **Anode side (no oxygen):** bacteria eat organic matter and release electrons onto a conductive material (usually carbon cloth or "carbon veil").
+- **Cathode side (with oxygen):** electrons arrive through a wire and combine with oxygen. The flow through the wire is the current you measure.
+- **Separator:** something must let charged particles (ions) pass between the two sides while keeping the liquids apart. Normally this is an expensive plastic membrane.
+- **Bristol's trick:** **fired clay is the separator.** Terracotta has pores of roughly 60–500 nm that let ions through. A terracotta cylinder is both body and membrane: carbon veil on one side as the anode, carbon veil with activated carbon on the other side as the cathode, open to air ✔ (Gajda et al. 2015; Winfield et al. 2013).
+- **Firing and porosity matter:** denser terracotta gave a higher open-circuit voltage, and more porous earthenware gave more power ✔ (Winfield 2013). That is the same porosity question as in the firing ladder.
+- **Scale and realism:** in Pee Power urinals, individual ceramic cells gave about **1–2 mW** each, and 288 cells were stacked on one campus urinal ✔ (UWE, 2016 field-trial paper; the developers' own figures). Ceramic cells fed with urine reached open-circuit voltages of about **0.5–0.65 V** ✔. Expect much less from a small soil-fed vessel [H].
+
+### Where cyanobacteria come in (three ways)
+1. **Photosynthetic cathode (the "algal lagoon" effect)** [L]: algae or cyanobacteria growing at the cathode **supply the oxygen** the cathode needs. Bristol grew these biofilms from **pond water**, with no added nutrients or pH control, on a 14-hour light and 10-hour dark cycle. Cathodes even became living by chance during long runs ✔ (Gajda et al., *Int. J. Hydrogen Energy* 39:21857–21863, 2014, doi:10.1016/j.ijhydene.2014.05.173). **The signal should then follow day and night:** more light, more oxygen, higher voltage [H, to test].
+2. **Biophotovoltaic (cyanobacteria at the anode)** [L]: the cyanobacteria themselves release electrons during photosynthesis and in the dark (Bombelli 2022; Sawa 2017). The signal follows light more directly.
+3. **Plant or moss version** [L]: living roots or moss feed soil bacteria (Plant-e, Wageningen; about 0.4 W per m² of plants reported ✔, company figures; Moss FM with Bombelli). A moss-covered vessel is a multi-species variant.
+
+### Three vessel designs [all H, to prototype]
+- **A. "Breathing wall" (recommended first test):** inside the vessel, wet local clay and soil with some organic matter (it goes oxygen-free) and a carbon-veil anode. **The terracotta wall is the separator.** Outside, a carbon-veil cathode is wrapped around part of the wall, exposed to air and light. Let cyanobacteria and algae colonise the outer cathode, or seed it with pond or soil water. Expected signal: a slow rise over days (the anode community establishing), plus a **day-night rhythm** once the outer film is photosynthetic, plus jumps when watered.
+- **B. "Light cell":** a cyanobacterial film on a conductive surface (carbon veil, or aluminium after Bombelli) inside a semi-closed vessel, with a counter-electrode. Simpler chemistry, more direct light response, but less "soil".
+- **C. "Black pot electrode":** an idea from Asturian black pottery (Llamas del Mouro), fired in heavy reduction and smoke, so carbon fills the pores. **Could a reduction-fired, carbon-blackened surface act as a weak electrode itself?** Pure speculation; not found in literature. Very on-concept (local tradition plus Stardirt saggar firing), and a cheap test: measure surface resistance of smoke-fired versus oxidised shards.
+
+### Reading the signal with the ESP32 node [E for the electronics]
+- Measure the voltage across a **load resistor** (try 1 kΩ, 10 kΩ and 100 kΩ) with an **ADS1115** 16-bit ADC. Current = voltage ÷ resistance. Log once a minute.
+- Log **temperature, light and humidity next to it**, so biology can be told apart from physics (temperature and drying change voltage too).
+- **Controls:** one identical vessel left un-inoculated, or kept dark under a black cloth. If the day-night rhythm appears only in the living, lit vessel, it is the colony's trace.
+- Cheap materials: carbon veil or carbon cloth, stainless or titanium wire for connections (copper corrodes), activated carbon paste for the cathode ⚠ (check Bristol's recipes).
+- **Optional poetic layer (later):** the Moss FM trick. A capacitor charges slowly from the cell, and a comparator triggers a sound event when it is full, so "the vessel speaks only when its life has gathered enough energy". Not needed for the signal.
+
+### What makes this Ward's territory [H]
+- Bristol: terracotta as membrane, for power and sanitation. Cambridge: cyanobacteria as power. **Nobody found so far uses a fired-clay vessel made from local clay, with that site's own community, as a living sensor whose voltage is voiced as sound.**
+- It joins all three steps: **Dig** (the clay and the community are local), **Listen** (the voltage is the voice), **Fire** (porosity, and even reduction carbon, are set by how the vessel is fired).
+
+### Contacts and sources
+- Bristol BioEnergy Centre (Ioannis Ieropoulos, Iwona Gajda), UWE: terracotta MFCs, algal cathodes, Pee Power ([UWE Glastonbury news](https://www.uwe.ac.uk/news/uwe-bristol-scientists-generate-record-amount-of-electricity-from-urine-at-glastonbury-festival-2019); [UKRI](https://www.ukri.org/who-we-are/how-we-are-doing/research-outcomes-and-impact/epsrc/spin-out-turns-urine-into-electricity)).
+- Gajda et al. 2014, "Algal 'lagoon' effect for oxygenating MFC cathodes" ([UWE repository](https://uwe-repository.worktribe.com/output/806455/algal-lagoon-effect-for-oxygenating-mfc-cathodes)).
+- Plant-e (Wageningen, NL; David Strik, Marjolein Helder): plant microbial fuel cells ([WUR](https://wur.nl/en/show/Plants-create-energy.htm)).
+- Paolo Bombelli (Cambridge): biophotovoltaics and design collaborations (see Addendum 1).
